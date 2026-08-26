@@ -1,0 +1,58 @@
+{
+  "guestEmails": [
+    "guest_worker0@gmail.com",
+    "guest_worker1@gmail.com",
+    "guest_worker2@gmail.com",
+    "guest_worker3@gmail.com"
+  ],
+  "addresses": {
+    "Standard": {
+      "email": "guest@example.com",
+      "firstName": "Deepak",
+      "lastName": "Patel",
+      "streetName": "1 New York St",
+      "city": "Millinocket",
+      "state": "ME",
+      "postcode": "04462-1930",
+      "phoneNumber": "9986292867"
+    },
+    "POBox": {
+      "email": "guest@example.com",
+      "firstName": "Deepak",
+      "lastName": "Patel",
+      "streetName": "PO Box 1",
+      "city": "Hagatna",
+      "state": "GU",
+      "postcode": "96932-0001",
+      "phoneNumber": "9986292867"
+    },
+    "US Outlying": {
+      "email": "guest@example.com",
+      "firstName": "Deepak",
+      "lastName": "Patel",
+      "streetName": "123 2nd Ave",
+      "city": "Kotzebue",
+      "state": "AK",
+      "postcode": "99752-0079",
+      "phoneNumber": "9986292867"
+    }
+  },
+  "payment": {
+    "creditCards": [
+      {
+        "cardNumber": "4111111111111111",
+        "expiry": "12/32",
+        "cvv": "123",
+        "name": "Deepak Patel"
+      }
+    ],
+    "paypal": {
+      "email": "dxlgbuyer@cmal.com",
+      "pass": "dxlgbuyer1"
+    },
+    "afterpay": {
+      "email": "dxldummy@gmail.com",
+      "pass": "amsamol123"
+    }
+  }
+}

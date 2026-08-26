@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.6.2",
+    "playwright-excel-reporter": "^1.0.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "play": "NODE_OPTIONS='--max-old-space-size=8192' npx playwright test",
+    "play:headed": "npx playwright test --project=chromium --headed",
+    "play:chromium": "NODE_OPTIONS='--max-old-space-size=8192' npx playwright test --project=chromium --workers=2",
+    "play:firefox": "NODE_OPTIONS='--max-old-space-size=8192' npx playwright test --project=firefox --workers=2",
+    "play:webkit": "NODE_OPTIONS='--max-old-space-size=8192' npx playwright test --project=webkit --workers=2"
+  }
+}

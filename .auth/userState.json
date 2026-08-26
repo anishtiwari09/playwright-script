@@ -1,0 +1,1587 @@
+{
+  "cookies": [
+    {
+      "name": "X-AB",
+      "value": "fdd34b6cca4442abb1dd924e72de3cbe",
+      "domain": "sc-static.net",
+      "path": "/scevent.min.js",
+      "expires": 1787077026.471507,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "exp_hp_2025",
+      "value": "False",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "exp_imgbg_2025",
+      "value": "True",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GuestLocation",
+      "value": "|12.86|74.84|MANGALORE|KA|IN",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1787077018.698207,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "5sVfco0_svQE0OBe14PZjCuGzqIN.FAiviaxPef5lww-1786990625.0085344-1.0.1.1-OO8Ek_7wEaw4EhjBNaJtlmjJT.XOh7cX.ztQig522VHHqsMq.c9z2jX.i.jx8prWXLeESRqpoGF_cyOCDmhg2dP88c5Qr5O5JJ5Pz7o20LWzxDPU949tMXxnCaePy_km",
+      "domain": ".bglobale.com",
+      "path": "/",
+      "expires": 1786992425.549208,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_scid",
+      "value": "hTtEctsmuEw-O5c332cK7r1AAAr4VQLZ",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1821118626,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_gbd",
+      "value": "dxl.com",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TapAd_TS",
+      "value": "1786990627214",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1792174627.355695,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_DID",
+      "value": "d86f5dd3-bd06-4556-9e0f-ee0556738893",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1792174627.355782,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TapAd_3WAY_SYNCS",
+      "value": "",
+      "domain": ".tapad.com",
+      "path": "/",
+      "expires": 1792174627.355835,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yotpo_pixel",
+      "value": "e63289a9-342f-41d1-8fc8-9ca8f0b59141",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1787080627,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "sc_at",
+      "value": "v2|H4sIAAAAAAAA/03GyQ0AIAgAsIlIADndBoxO4fB+7auqK4nDQQ8ryHKGHo0gVtVdEfvIJcFJHpaJxn6/4gMqmfW3QAAAAA==",
+      "domain": ".snapchat.com",
+      "path": "/",
+      "expires": 1820686627.475441,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_sctr",
+      "value": "1%7C1786939200000",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1821118627,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_ses.3674",
+      "value": "*",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993063,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main__sn",
+      "value": "1",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1818527263,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main_ses_id",
+      "value": "1786990627985%3Bexp-session",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cp_order_subtotal",
+      "value": "0",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cp_checkout_usertype",
+      "value": "guest",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cp_user_loginstatus",
+      "value": "false",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cp_signin_source",
+      "value": "auth0",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main_v_id",
+      "value": "01a010f10d21001c5e089f886bc900080001b078007e8",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1818527263,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main_dc_visit",
+      "value": "1",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1818527263,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Full_Redirect",
+      "value": "false",
+      "domain": ".alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main__ss",
+      "value": "0%3Bexp-session",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cp_user_sizeprofile",
+      "value": "off",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonAlertBoxClosed",
+      "value": "2026-08-17T18:17:08.394Z",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1818526628,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TAPID",
+      "value": "dxl/spa>01a010f10d21001c5e089f886bc900080001b078007e8|",
+      "domain": ".tealiumiq.com",
+      "path": "/",
+      "expires": 1818527264.226881,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "utag_main_dc_region",
+      "value": "ap-east-1%3Bexp-session",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mt.v",
+      "value": "2.1700054479.1786990628554",
+      "domain": ".alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1821551263.240191,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__spdt",
+      "value": "1ed68cfac4424841af229dc58fd2a10c",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1818526628,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "AgQrJB5q.is4ZfaSi3.llzMb50U_2ngRQvnQrmyJw5c-1786990628.6811497-1.0.1.1-knDJN0XBJWw0.8LdLkbe.v8feKYv2nn_myyheO3tpdvCVDLgR3mjRVXSjkwEUHoP8JtYXX6qJkPv69NpiKRJgf2t3xn3H3cgHJu0VtWqPgTWBObcmogCSuJFU6DbocRTuL.LfoKBHcxiMEVZW6kE8A",
+      "domain": ".global-e.com",
+      "path": "/",
+      "expires": 1786992428.677939,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_s",
+      "value": "%2BI0CjGlN%2FYPZKXU8gWfMcxXG3J5ABuDLDPeu9dKLimdzY3fMCgZx5SdWxiebp%2BEI",
+      "domain": ".app.link",
+      "path": "/",
+      "expires": 1802716063.852248,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mt.promoDrawerViewed",
+      "value": "t",
+      "domain": ".alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1821551266.943159,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_SupportThirdPartCookies",
+      "value": "true",
+      "domain": ".alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Welcome_Data",
+      "value": "%7B%22showWelcome%22%3Afalse%7D",
+      "domain": ".alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1787249832,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "brwsr",
+      "value": "dfce636e-9a67-11f1-aea5-7f153951047b",
+      "domain": ".sjv.io",
+      "path": "/",
+      "expires": 1818527262.896577,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "irtps",
+      "value": "1",
+      "domain": ".sjv.io",
+      "path": "/",
+      "expires": 1787077035.212545,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "brwsr",
+      "value": "dff1f172-9a67-11f1-9a62-797dc88af604",
+      "domain": ".ojrq.net",
+      "path": "/",
+      "expires": 1818526635.441273,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__attn_eat_id",
+      "value": "a171a7aaac35483486b7062647c4ca7c",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1820687264.093616,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax",
+      "partitionKey": "https://dxl.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "_gcl_au",
+      "value": "1.1.1301022137.1786990637",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1794766637,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_fbp",
+      "value": "fb.1.1786990636691.754842217754137705",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1794767266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_id",
+      "value": "6db7a8fe2c7849b7a20024449fcaeeee",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1820687266,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_session_id",
+      "value": "fd20b3b282a240b5ae015599395cae1f",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993066,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_cco",
+      "value": "1786990636752",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1820686636,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "ueeS.UtjuY02bA4Z_puKk_Nzg.DUuTXsQI_91tIrEuM-1786990636.8420796-1.0.1.1-cuz1tXunrLprjgMqVrRqjNRMxSnemp.QKAjbOJ1h3WhNu5L615Rqmc5_B34xzDzGhU8JjIO6kgLrXv3Cr0E9TLptai7uIhPL7juUr66SJi9fjCjNvKbAr6VIo3Vvjav4",
+      "domain": ".bzrcdn.openai.com",
+      "path": "/",
+      "expires": 1786992436.791932,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "rmuid",
+      "value": "9de64903-77b7-4b0b-8979-4afc198bd669",
+      "domain": ".linksynergy.com",
+      "path": "/",
+      "expires": 1818527266.235203,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__obref",
+      "value": "4a721d5c-28a4-4d16-8990-fde89befdb36",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1818526637.006934,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_bopd_",
+      "value": "none",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1820686637,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUmm4L9e6Eg16gDO0wRJy3u5mj6lfNFVQHM7wQBd9HsjxZyaPS3AEX8kfPiEe34",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1821550637.334857,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1168888221.1786990637",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1821551266.259701,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_ss_referrer",
+      "value": "https://alpha.cofe.dxl.com/",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786992437,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__attentive_dv",
+      "value": "1",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1787077037,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".bat.bing.com",
+      "path": "/",
+      "expires": 1787595438.648382,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "3C8C4C2A3A7362103D585B923B1E6360",
+      "domain": ".bing.com",
+      "path": "/",
+      "expires": 1820686640.366795,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CLID",
+      "value": "ffc3164d96134afd82ca0e4cc1d57d63.20260817.20270817",
+      "domain": "www.clarity.ms",
+      "path": "/",
+      "expires": 1818526637.815472,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_clck",
+      "value": "13fhtpl%5E2%5Eg8o%5E0%5E2420",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1818526638,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kampyle_userid",
+      "value": "799e-450a-8979-9d59-6881-601e-1743-7d49",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1818526638,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GlobalE_Consent",
+      "value": "%7B%22required%22%3Atrue%2C%22groups%22%3A%7B%221%22%3A1%2C%222%22%3A1%2C%223%22%3A1%7D%7D",
+      "domain": ".alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TDID",
+      "value": "0fa0cda6-b829-49e1-a555-2a9fd77d0241",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1818527077.633679,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GlobalE_Data",
+      "value": "%7B%22countryISO%22%3A%22US%22%2C%22CurrencyCode%22%3A%22USD%22%2C%22CultureCode%22%3A%22en-US%22%7D",
+      "domain": ".bglobale.com",
+      "path": "/",
+      "expires": 1787250271.954999,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "xitFrQ0lk8uE0UmL1.zY.AxaHtOmKG8N1DIaYut0ogE-1786990638.7013056-1.0.1.1-xooAd0mY6NXbnFz85UVD5P2uNHot7OSuqtu.bpXjC.gvm0YW8VK6YaPt3iu9sNv41IYUfKy.aIHU5GIM9wVjwy9wYSy4tUY54yT0mBGfr4hiaIKdpXGSRKaMhEBZCMlu",
+      "domain": ".bzr.openai.com",
+      "path": "/",
+      "expires": 1786992438.905241,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GlobalE_Data",
+      "value": "%7B%22countryISO%22%3A%22US%22%2C%22currencyCode%22%3A%22USD%22%2C%22cultureCode%22%3A%22en-US%22%2C%22isOperatedByGlobalE%22%3Afalse%2C%22isSupportsFixedPrice%22%3Atrue%7D",
+      "domain": ".alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1787250272,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_CT_Data",
+      "value": "%7B%22CUID%22%3A%7B%22id%22%3A%22616355137.591890721.1901%22%2C%22expirationDate%22%3A%22Mon%2C%2017%20Aug%202026%2018%3A47%3A19%20GMT%22%7D%2C%22CHKCUID%22%3Anull%2C%22GA4SID%22%3A828584019%2C%22GA4TS%22%3A1786990639270%2C%22Domain%22%3A%22.alpha.cofe.dxl.com%22%7D",
+      "domain": ".alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1821550639.270166,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1787595440.366874,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SRM_B",
+      "value": "3C8C4C2A3A7362103D585B923B1E6360",
+      "domain": ".c.bing.com",
+      "path": "/",
+      "expires": 1820686640.366907,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "demdex",
+      "value": "32591903659582601263087078181775150433",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1802542639.464719,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "dpm",
+      "value": "32591903659582601263087078181775150433",
+      "domain": ".dpm.demdex.net",
+      "path": "/",
+      "expires": 1802542639.464779,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SM",
+      "value": "C",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MUID",
+      "value": "3C8C4C2A3A7362103D585B923B1E6360",
+      "domain": ".clarity.ms",
+      "path": "/",
+      "expires": 1820686639.55758,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MR",
+      "value": "0",
+      "domain": ".c.clarity.ms",
+      "path": "/",
+      "expires": 1787595439.557623,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "QuantumMetricSessionID",
+      "value": "bc4a40d564d44c35a426fb6c8a0d9d6d",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993058,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "QuantumMetricUserID",
+      "value": "654a76ac3fd60987d1d245202c739b8b",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1818527258,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit_p",
+      "value": "1|DO7uz5r6l2qWYRRAO2QYq1yGDbqF7N+a7xF4EX77mIeH7dsfLWfcJzob+L1wcRWAb8shY+xyU9owHTRO1/p4iHX0qfg68IpFQAPcN3ARK86pxe7Dt0SX0sJscZKuoEmvgeiH5e7xb1jxbPc33lAxAa9+WSROh9JiymhmVi5nVTHREvsM2ra73MRmS8gGs6ylTlon0IrnE1p4+byUJuUHKNl4Am3SUH3rwETMVR8lnVPictVKI3nW/ZSmfFa9k+2RfCCm1vF3Tgn8ih/oL8+08tuVaVkDFDbShAUs62yL6R/QD5U7tEfUTQ==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1818526848.234143,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dxl.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "khaos",
+      "value": "MSXK7N79-1H-A4F1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1818526848.234202,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos_p",
+      "value": "MSXK7N79-1H-A4F1",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1818526848.234223,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://dxl.com",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "audit",
+      "value": "1|DO7uz5r6l2qWYRRAO2QYq1yGDbqF7N+a7xF4EX77mIeH7dsfLWfcJzob+L1wcRWAb8shY+xyU9owHTRO1/p4iHX0qfg68IpFQAPcN3ARK86pxe7Dt0SX0sJscZKuoEmvgeiH5e7xb1jxbPc33lAxAa9+WSROh9JiymhmVi5nVTHREvsM2ra73MRmS8gGs6ylTlon0IrnE1p4+byUJuUHKNl4Am3SUH3rwETMVR8lnVPictVKI3nW/ZSmfFa9k+2RfCCm1vF3Tgn8ih/oL8+08tuVaVkDFDbShAUs62yL6R/QD5U7tEfUTQ==",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1818526848.234241,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IMRID",
+      "value": "5f20fdf0-9a68-11f1-aeda-a767a544b9c5",
+      "domain": ".imrworldwide.com",
+      "path": "/",
+      "expires": 1820686848.816534,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sessionid",
+      "value": "h-986c1b8c2cd447bf8a083a932243e198_t-1786990849",
+      "domain": ".rkdms.com",
+      "path": "/",
+      "expires": 1818526936.556186,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "value": "2149793412864406432876",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1794766936.111714,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SEUNCY",
+      "value": "7934890E0459256C",
+      "domain": ".semasio.net",
+      "path": "/",
+      "expires": 1818526936.379866,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sc",
+      "value": "12%3A136968",
+      "domain": ".rkdms.com",
+      "path": "/",
+      "expires": 1818526936.556158,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "pxrc",
+      "value": "CIGijdQGEgUI6AcQABIGCOTrARAA",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1792175267.196637,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "irld",
+      "value": "LWbo0cSWKTRoVzT1SKM2XAyPR2MWRFDx5mw-D1w0SIIRN90Ss",
+      "domain": "dxlbigtall.sjv.io",
+      "path": "/",
+      "expires": 1802543072.186317,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_alby_user",
+      "value": "f3944e5b-ff22-4bda-b0f7-f1b407bf3b2d",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1789583072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "GlobalE_Analytics",
+      "value": "%7B%22merchantId%22%3A%221901%22%2C%22shopperCountryCode%22%3A%22US%22%2C%22cdn%22%3A%22https%3A%2F%2Fwww.bglobale.com%2F%22%2C%22clientId%22%3A%22e54ebf00-8524-4f6a-b7dd-324d4db7b076%22%2C%22sessionId%22%3A%22f64f5a43-f4f5-41b4-b000-2af8c07939e6%22%2C%22sessionIdExpiry%22%3A1786992873443%2C%22configurations%22%3A%7B%22eventSendingStrategy%22%3A0%7D%2C%22featureToggles%22%3A%7B%22FT_3DA%22%3Atrue%2C%22FT_3DA_UTM_SOURCE_LIST%22%3A%5B%22borderfree%22%2C%22borderfree.com%22%5D%2C%22FT_3DA_STORAGE_LIFETIME%22%3A4320%2C%22FT_BF_GOOGLE_ADS%22%3Afalse%2C%22FT_BF_GOOGLE_ADS_LIFETIME%22%3A30%2C%22isOperatedByGlobalE%22%3Afalse%2C%22isPiiDataEnabled%22%3Atrue%2C%22isEventSendingDelayed%22%3Afalse%7D%2C%22lockBrowsingStartOnSessionId%22%3A%22f64f5a43-f4f5-41b4-b000-2af8c07939e6%22%2C%22dataUpdatedAt%22%3A1786991073443%2C%22environment%22%3A%22STGMNS%22%7D",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1821551073.443557,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "stx_user_id",
+      "value": "2dfd23a6-d804-4da9-b45d-2cbabbfa6e9a",
+      "domain": ".sharethrough.com",
+      "path": "/",
+      "expires": 1789583077.46958,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDCPM",
+      "value": "CAESEgoDYWFtEgsI0oeW5rmlvj8QBRIXCghhcHBuZXh1cxILCPKtlua5pb4_EAUSFQoGZ29vZ2xlEgsI2NTz8Lmlvj8QBRIWCgdydWJpY29uEgsIlqmVssmlvj8QBRIWCgdsaHdiazU5EgsI3teVssmlvj8QBRIWCgc0aDN5bjFmEgsInoSWssmlvj8QBRIWCgd4MmU3dHE4EgsImp_M98-lvj8QBRIWCgdzdng5dDUwEgsI3s_M98-lvj8QBRIWCgd2Y3hsemt6EgsIwIXN98-lvj8QBRIWCgcxaTA3MW5jEgsIxPT1utqlvj8QBRIYCgltb29raWUtcHMSCwjkt_a62qW-PxAFEhsKDHNoYXJldGhyb3VnaBILCKL09rrapb4_EAUYBSABKAYyCwi-tvjn8KW-PxAFOAFaB294M2g2YXpgAQ..",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1818527077.633761,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "mp_dev_mixpanel",
+      "value": "%7B%22distinct_id%22%3A%20%221a010f7e9375fb-06f89754e829ab8-1a525631-e1000-1a010f7e938ecf%22%2C%22bc_persist_updated%22%3A%201786991077689%7D",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1818527077,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bc_invalidateUrlCache_targeting",
+      "value": "1786991077909",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1786991677,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "kampyleUserSession",
+      "value": "1786991078555",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1818527078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kampyleUserSessionsCount",
+      "value": "4",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1818527078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kampyleUserPercentile",
+      "value": "57.1007868575095",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1818527078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "kampyleSessionPageCounter",
+      "value": "1",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1818527078,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "bluecoreNV",
+      "value": "true",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1816991079,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_clsk",
+      "value": "dyvtvm%5E1786991079850%5E4%5E1%5Eh.clarity.ms%2Fcollect",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1787077479,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "did",
+      "value": "s%3Av0%3A8b839b18-1b22-4c57-9ac9-92af5a3f5bd6%3A9271fc437600569514b187e68a360a37d281f25e6e47c26dc5e02be4fa0f136e.iE%2BInHLQs1E44bsQ%2BWwg0hoE99j44GNDpyQUkdpke9A",
+      "domain": "login-uat.dxl.com",
+      "path": "/",
+      "expires": 1818548857.736917,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "did_compat",
+      "value": "s%3Av0%3A8b839b18-1b22-4c57-9ac9-92af5a3f5bd6%3A9271fc437600569514b187e68a360a37d281f25e6e47c26dc5e02be4fa0f136e.iE%2BInHLQs1E44bsQ%2BWwg0hoE99j44GNDpyQUkdpke9A",
+      "domain": "login-uat.dxl.com",
+      "path": "/",
+      "expires": 1818548857.737264,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth0",
+      "value": "s%3AM1yKphtreHy1f7_7tRAdFTlgNkknmLad.PJbi%2BuFKZto%2BAAq2uGx0B79BmNMzvW%2BhlMDIllrtc0A",
+      "domain": "login-uat.dxl.com",
+      "path": "/",
+      "expires": 1787250458.794294,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "auth0_compat",
+      "value": "s%3AM1yKphtreHy1f7_7tRAdFTlgNkknmLad.PJbi%2BuFKZto%2BAAq2uGx0B79BmNMzvW%2BhlMDIllrtc0A",
+      "domain": "login-uat.dxl.com",
+      "path": "/",
+      "expires": 1787250458.794427,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "auth_zero",
+      "value": "f079750118d3675726426b3ad32f0617:U2FsdGVkX1+PV+38oOMET5fN00SUkaJ2QQS/w0cI/Zb3XWvs+fCjkmAztJ2ThhaA/nbZpikUG+FuR/PT9PAtlR+bFi5IltD5LrI1M9ktuoEgUsG0W4b9bsl603ocisx/dsKleuG+/viTmfqNOIStTOYeVqLpCIKwlQICR0y9dbmYS9uHgi3hhxeHd3G61vSQQuqwgoWc+xPek4od7hH2m5xpCACvhAVl37Pxx/MuoJt8rB6zNV91njFAlcP+pw3Uu3WESNLqOhYERK0n9SucwEraC7o16LtieBGBGGiW6faAVCJAfiW5/+SC3Gh92nRp6FPZkq/UAdgtdNrDuU3OiNamoER9awK7pqE3zDBavgdobgWg/+h5l5vJMgFCnlGrFY2IDZAHCylGmzZRBzLIwGBXxqXi+qNL0yBWcO2aywzSKPd3X1RmwDsbOYFZG2oRuX6T40YT1INxv0LbKRavwiZqRVLqiejgDfJqqwefDiTYpYLTHFbAX+qxPS+Qi1tjZ9sHtEaU11ESa6Elm1G7HH3Vfn7a68XoB+0zENVis5xzdvLRY4wZwyRkmfECRs874PPa5AHETJvGxxWQN2+BKDpx8YvCQsWbSpyrImktt9s8k0/Yre7VzoJK1AqFBBWF5owrkVkJnaCOeOoy2fDcnMEziUkZj7utkOWjCQ0uah6QkTagqz7a9RYFNacDoA5zh8Znz79ci/N1MRFuSCh2QS+wikMHJlqgQAAdGdIKd/8SkwyOgO5Iq59fI5VR9j1Fgj+RFc2H1V5GJXThm2Jyz4NH9XkM3J9gq5v5wUQf3kAkgDl3HdhBb6pM/XI8pH6+us+OYlrCCW7CSfxNZSAachAFDJpH2aPdtSokTauvOhYhfdR48d8LM79VNgZ5xjPz9pXw89dYfdWPytEBZzFdRmpK9lkAQSVwYlggaYjYU7HWsxhXaA87TunB3CVBku/pDLJhh0CR1fa4DmWdIQyY9tC4uE2rgb211HOgCnRrQ9jDu5XYvVTJ7XXqZF0D7e7e8ne/9fqlPLmfv151blU9lms3JB2lEthar+EJZ9YXCgUUijtI/AHebmyOkbJUhVSNUMCPL8CMWcotXv6Xg3vK6bWT/WSsnDrOaJUDb8ROBUHhtttyUzKUSLSHJGS3yKgyCv0dALvdnfs/VZTThe15n2KiP8BXTrLeRvGH0vvFLLq1WucOprvi0+TD5LIoLz9afMszrcwib//2AAd4aNuRL9EPk64MMiZW81E6L7uL4OWETA7zAXf9chwS/xqABwm/0PVyv5m92g5kKg91y30q4dxCg8SbjDnv7u3HZiGvXsNPsGjjVnvzufNNm4vI0wS/std8ubBp/pCN6unoeslArCPosvsYAMhSSxvPY918Y5Bl4w08u5aXQ6TVUFbpCF0Z/9IYUh6dBa4o+1wN5ez8nBxRLfUibviFJSoAi0kuakhv6wj852v8Xm1USElVdlXd45Vb2+R5q4/BGRsRMXmPbrOUiqH5GGanyV7BZmqGci9SQDECHbOz0oFDRFkX2XpGpbjydM38XesJTuEBn1z3ADelJwqeDYMH8X/PfkI3ZiP2SBVULq0U7tU4TsJ/eilYqjpK7EJVkUkF8ek8jH8tQHUf/MVa3owEevZTLpb+YFVHcDee4oPsRBKflgYsbtUgwmdzVbIdPT9Ls4qeyemWt6BNTtP7Z+dIyCUrXc/j2d7KB6qPW9g+PP1R29/3El3kfc+f9GERF9Y7VlmjIMaC5LpMPn5+rGg0+dHA/nK2luLfg+rZICJ6CiA5IcbFQyuz1fkD9wtdnfALJaYdJ9uJNDUHqaY6awiCpydwRp2wRVEhe1Kpzl/EZAS9GU4m2IwRXIxnL9entm62puza08278B4K/dLFOQi7GezBiEIjv07qOgVLhXDuPRjN25obPVSxKSlznCWHyZBS8E2Gwo3ujO9ReaGchvXoWCuv5WEb/rqizy4IlgNOog2fDv8J2fgme8DqXewU5yuQjUyoyumgf/fUQXRdkO2SpdrvT9PFlM38Q4COw3TSdor41gyRT24DRMTmjQGNX/JzhH/wAQRLmcgwyYmHIf3NRcQtHqC8TCCi3wH1gczJea3TaksQV8ur1fsD/6iIvEpAfupFSKNWVT66vYYXtzWVRapmVVA1ccjExCUqozycVievBgHdxh1YXs62Ia81zj+DZ/ZSr54/+hvdI+sSxUlKw2eFk3KSjyKSTnMwZj1OQo4w+9GNXzJR6CjPJ3Dg/uHOLf1Ec80ZBvOPQw+Wbg23c73k+vhkT2TuB8i4oNN0bSLNk5tuSf5/hpBw+WuLZPZhSRBfgZHb/w==",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1821551260.647171,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "RT",
+      "value": "\"z=1&dm=dxl.com&si=af4f4fca-652a-41ca-b00e-22a59b9414c0&ss=msxkc8hm&sl=2&tt=55h&bcn=%2F%2F684d0d45.akstat.io%2F&obo=1\"",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1787596061,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_PI",
+      "value": "dfce636e-9a67-11f1-aea5-7f153951047b%7C1787077662790",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1818527262,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IR_47271",
+      "value": "1786991262792%7C0%7C1786991262792%7C%7C",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_scid_r",
+      "value": "k7tEctsmuEw-O5c332cK7r1AAAr4VQLZml8XIg",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1821119262,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__apex_test__",
+      "value": "",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Mon+Aug+17+2026+14%3A27%3A43+GMT-0400+(Eastern+Daylight+Time)&version=202510.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=C0002%3A1%2CC0001%3A1%2CC0003%3A1%2CC0004%3A1&geolocation=IN%3BKA&AwaitingReconsent=false",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1818527263,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main__pn",
+      "value": "8%3Bexp-session",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "frontastic-session",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6Ijk0MzE3Y2QwIn0.eyJjYXJ0SWQiOiJiMmE2NmM2My1hMDc4LTQzMjUtYWNmNi05M2U3ZDkxZTFkMzciLCJhY2NvdW50Ijp7ImtleSI6IjE5MDM1ODU4MDgiLCJhY2NvdW50SWQiOiJkZTI4MDBhZi02YTg3LTQ4ZTQtOTFhZS0xMGZhYTk3ZTM0MjEiLCJlbWFpbCI6ImRlZXBha3BhdGVsMTJAZ21haWwuY29tIn0sImN1c3RvbWVyTnVtYmVyIjoiOTk5MzMxNTM2MTIiLCJ3aXNobGlzdElkIjoiYzA1MGMwOGQtZjYzMi00YjdiLWJmMGUtZWNhODRhNzc3NDQwIn0.Ujkxfx0SyeCTBHwpHlNenNdswkAMSowaJUXetQA7OB8",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main__se",
+      "value": "21%3Bexp-session",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main__st",
+      "value": "1786993063438%3Bexp-session",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "utag_main_dc_event",
+      "value": "17%3Bexp-session",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993063,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cp_3q_page_count",
+      "value": "0",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sp_id.3674",
+      "value": "0e92c68333170cab.1786990628.1.1786991264.1786990628",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1821551263.56911,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "wQO3WTa8FdMFygF2NixZnnEUcvkHWeqKp_lDUEWY4v0-1786991263.6665938-1.0.1.1-C.dm.xQoIQAU_zxM0bJzA0BP71cXOi_gaAvcSLhgMEM",
+      "domain": ".bzrcdn.openai.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_rdt_uuid",
+      "value": "1786990636777.35dc36cd-eb5f-450b-82a6-f72138679471",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1794767263,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "forterToken",
+      "value": "1a7152fa96ac496ca45c90d4ae82e36d_1786991262470__UDF43_21ck_",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1821551264,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetsid",
+      "value": "e12758009a6711f1b1a1253cbe1b44aa",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1787077666,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_uetvid",
+      "value": "e12780e09a6711f1a0b8691a1eaf1d90",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1820687266,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_attn_",
+      "value": "eyJ1Ijoie1wiY29cIjoxNzg2OTkwNjM2NzUwLFwidW9cIjoxNzg2OTkwNjM2NzUwLFwibWFcIjoyMTkwMCxcImluXCI6ZmFsc2UsXCJ2YWxcIjpcIjZkYjdhOGZlMmM3ODQ5YjdhMjAwMjQ0NDlmY2FlZWVlXCJ9IiwiZWF0Ijoie1wiY29cIjoxNzg2OTkxMjY2MDQ3LFwidW9cIjoxNzg2OTkxMjY2MDQ3LFwibWFcIjozNjUwLFwiaW5cIjp0cnVlLFwidmFsXCI6XCJodHRwczovL29sZmRyLmR4bC5jb21cIn0ifQ==",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1820687266,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_ga_PKCFKX5RCK",
+      "value": "GS2.1.s1786990637$o1$g1$t1786991266$j60$l0$h0",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1821551266.319219,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_tq_id.TV-5454632727-1.c768",
+      "value": "f03fdf9d2ce13650.1786990638.0.1786991267..",
+      "domain": "alpha.cofe.dxl.com",
+      "path": "/",
+      "expires": 1821551266.546258,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "6jQNGWKhqywnGDPli4k0ZNcGAuSOJudmReCA4WUiaUg-1786991266.4241295-1.0.1.1-ZTpBL.v.ccOo_wFPxSzva_u25gt4Yo0wI1hlUNnbBeI",
+      "domain": ".bzr.openai.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__attentive_pv",
+      "value": "5",
+      "domain": ".dxl.com",
+      "path": "/",
+      "expires": 1786993066,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rlas3",
+      "value": "ZWOBMwWOeijAiRExUxFY1avtCZgNvtWpEep/1GffWBU=",
+      "domain": ".rlcdn.com",
+      "path": "/",
+      "expires": 1818527267.196554,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://alpha.cofe.dxl.com",
+      "localStorage": [
+        {
+          "name": "feh--c52",
+          "value": "0001786990631468cba6ba0ec5bc4f0312dbebed0c7556bf"
+        },
+        {
+          "name": "feh--1bda6",
+          "value": "0001786990631479d3f8f51d6dc3635395d9da97d3e45171"
+        },
+        {
+          "name": "__$intcm",
+          "value": "{\"emptyBuffersSent\":3,\"totalBuffersSent\":7,\"firstRecordedAt\":1786990860543}"
+        },
+        {
+          "name": "bluecoreSessionData",
+          "value": "eyJzZXNzaW9uX2lkIjoiZmEyZTRlOWQtY2E2Mi00MTcxLTgxYjMtNjBiNWNmMzhmZTNlIiwibGFzdFBhZ2VWaWV3VGltZSI6MTc4Njk5MTA3NzY5MSwiZmlyc3RQYWdlVmlld1RpbWUiOjE3ODY5OTEwNzc2OTEsIm9yaWdpbmFsX3VzZXJfdHlwZSI6Im5ldyIsImN1cnJlbnRfdXNlcl90eXBlIjoibmV3Iiwic2Vzc2lvbl9zb3VyY2UiOiJkaXJlY3QiLCJzZXNzaW9uX21lZGl1bSI6ImRpcmVjdCIsInNlc3Npb25fcHZjIjoxLCJkYXlfcHZjIjoxfQ=="
+        },
+        {
+          "name": "feh--c8c5bfc2",
+          "value": "00017869912642129d1153bd93fe584bb1d94c29ca7afea5"
+        },
+        {
+          "name": "feh--da4",
+          "value": "00017869906311411a40ef2bd7f20ebb32e1c8d689bce962"
+        },
+        {
+          "name": "geo-location",
+          "value": "{\"data\":\"{\\\"country\\\":\\\"IN\\\",\\\"region\\\":\\\"KA\\\"}\",\"expire\":1787077037112}"
+        },
+        {
+          "name": "lastpendingitemwishlistdetail",
+          "value": "null"
+        },
+        {
+          "name": "_gcl_ls",
+          "value": "{\"schema\":\"gcl\",\"version\":1,\"gsid_dc\":{\"value\":{\"joinId\":\"OPmLGpzFWhbH5CtJfzOwQ-8-9Mz1AhLi4g\",\"lastJoinedTimeMs\":1786991264096},\"expires\":1786991564096},\"gcl_ctr\":{\"value\":{\"value\":0,\"timeouts\":0,\"errors\":0,\"eopCount\":0,\"creationTimeMs\":1786990636599},\"expires\":1794766636599}}"
+        },
+        {
+          "name": "bluecoreSiteVisit",
+          "value": "{\"sessionId\":1786991079285,\"startTime\":1786991079361,\"pageViews\":1,\"startPageUrl\":\"https://alpha.cofe.dxl.com/\",\"comesFrom\":\"direct\",\"campaignClickArr\":[],\"campaignShowArr\":[],\"campaignCloseArr\":[],\"combinedCampaignShowArr\":[]}"
+        },
+        {
+          "name": "feh--8ff2b28",
+          "value": "00017869912641594326ee0a06ae217321610d7c822b98cc"
+        },
+        {
+          "name": "__rmco",
+          "value": "{\"channelIds\":{\"aff_mid\":\"36921\",\"attr_sid\":\"113649\"},\"scope\":\"\",\"version\":\"2\",\"productConsents\":{\"ranTrkInt\":true,\"ranTrkExt\":true,\"ranAut\":true,\"ranCGE\":true,\"rtbRet\":true,\"rtbPro\":true,\"cadTrk\":true,\"dspTrk\":true},\"execStatus\":1,\"consentSought\":false,\"sourceDomain\":\"alpha.cofe.dxl.com\",\"rmPurposeConsents\":[],\"rmVendorConsents\":[],\"id\":\"333a0a00-4da9-4743-9a43-00ebd268db05\",\"scnt\":0,\"maxAge\":1786992436505}"
+        },
+        {
+          "name": "utagViewQueue",
+          "value": "[]"
+        },
+        {
+          "name": "ZD-suid",
+          "value": "{\"id\":\"481815f1eac845cbb2735c5c060b718f\",\"expiry\":1786992163526,\"tabs\":{\"count\":6,\"expiry\":0}}"
+        },
+        {
+          "name": "feh--1bc22",
+          "value": "00017869906292967e27e12a858d3b3a4b0eb68315ff8ab9"
+        },
+        {
+          "name": "semLightActiveRules",
+          "value": "W10="
+        },
+        {
+          "name": "nearByStoreListDataForFindStores",
+          "value": "[]"
+        },
+        {
+          "name": "NMG_SIGNALS",
+          "value": "ILWpk_TXmCJy7VWhEWc8kmczhBO~XiMmxO3GRZYsQm0w5xJGk9YWdtVOpxwXVd"
+        },
+        {
+          "name": "forterToken",
+          "value": "1a7152fa96ac496ca45c90d4ae82e36d,1786991264156"
+        },
+        {
+          "name": "kampyleUserSessionsCount",
+          "value": "4"
+        },
+        {
+          "name": "_uetvid",
+          "value": "e12780e09a6711f1a0b8691a1eaf1d90"
+        },
+        {
+          "name": "lastExternalReferrer",
+          "value": "empty"
+        },
+        {
+          "name": "wandz-session-id",
+          "value": "2f5792a4619e604cf3c7b7a5ec3f7f4f"
+        },
+        {
+          "name": "bc_persist_props",
+          "value": "{\"distinct_id\":\"1a010f7e9375fb-06f89754e829ab8-1a525631-e1000-1a010f7e938ecf\",\"bc_persist_updated\":1786991077689}"
+        },
+        {
+          "name": "pst",
+          "value": "1786990637111"
+        },
+        {
+          "name": "nmg_DXIVAI231",
+          "value": "{\"sessionData\":\"6~jCKxqrfyWbdcX00XotYzfKOnoxCkYF3T7BLw6sZSZyvCcAMJd4_PkwWTusO9X4MEw1gHOjOw9s7wNR5jk6Nyy2iXknNjkjOIS23-JknmU2I2siRIRDIHBGLgyhYSBnpSQnbu_lYSRvlCpXb~BvH~w1gH9mdyASIMIq5mdBdGTzim8lZW8ba5OuGr9ijS40ea~uO3940y70IWIkEuo-eDZ9M3NsVSRoli0vMO5iYLNBVWtiaicTTfJhL3F~YlmycnpSYS7OZuXsC3hrmmUkdqNzO4J0DmK6IScbTcwhqG41c6yhr9NknWppZTTiN3tUPC9kbTRjQANdRW1BZW_iirt-MCWbcbe2JJ9zn0wzcOVQOXdyzje2dEksHNJou0hzdNCvoQFsnGt~cDMs_nV3MjfnYiczObwRQ2d4dVDkpLJxWGMsdMav8KBsmHj~O5chSINy0C8zbVAlYyRovmpXZM60eB52nX1lZSG0TZY1SmPibU2lAMJcPW_dZVvtt_5sdyVneuAs0_pvh2M4Yq9uPXwv3i8OaF6lUEQhcCdnbvWslwNdl3MDb-M1bWJQVGb~cTchUeJlPGR8Ii5uy_xiMCWadbeyLaVojWQmcNZy8ko70C8tbnIwYD5Ct2lpI_quqBxhVC1ccyjpb3NLU2-zZh20NfN_D2B1bB_6tqFid2gYIbilGKRznmUmcNZyLHh9EXCybmkkEuo-dyP-NJNx_eAtWz8uNvazMUw1gGbgdj2lSwlT5jktYlW0tHMoNzkhMILi4JQ-YD9DNaU5O3Jw3TTvMV14JDMhcCd~aLAzlCNokWthaSaiN~J2QDK4OfRkDNUm9zUCNSu3hHZc_TlONou150YujGI-MHMs8oNyI3CzbmufUD90tnlpcZJ6Z7wYnX5pIfzxMFgNSTaxNw12CNgk8CF8c2hiinEvPDkmOIK24mYyZDP8I5-zT4Qv3j3DOxL5KdA1dzs4O3RsVSxoiX8WOfP3NVYQST03MAD0DNQa5mVwYWi1xqVJ_X_eaLJuD3hujXM4bN-k8koI1yv7OxDyKOg-dzs~NpB0YtJliX1maTY0Yn5LYnLtZj1iDxsRQzQGNyuiirsZc2HOOZOs0_MeZjD8I6UiEkBM0C87NS1zIcI5wydzbZJ6Z7wYhy0vMO5icUIRQHtALP~0OgNkE3F4dWSiimJwJi7ObbBnFsRhj3H~O2Y4BDJ0GS7GMwjiXg5lmXdwI_piVOwYkWp_VCwtYjIRQCmjcFmwMDRh5jk6Nyywg1IuNjpkOId13-JvjV8IZrR0TzIJB1r0IW~lZxZuumMlbcOlhxlikWpaRSGhX2x4MjfnYiczObwRQmR8ZVXys6h3bGyYZ6TlKY9iam80emM6PnF3I2J0IWIzVhJItnlpccGjqxlkli0vZiQsbKUBMnL~Zj~JRxRUQmBudF1vwrNI_XOaccapK_ceZnQEdqYs8nlzIm41ZCAsXgNqh2U5bdSlpOIxnH1qZO5iYYVLcWD1SimjRCdcOXN4Ii50xrVbMCWQZMalGsR7jEI8bNRrPYIv3nG6dEHsExRkvGpnd4GkgkRwlGD-bCKj_KVHMjf1c~AlAMJhMV58ZVvtt_5sdyVnenSx5mg~ZTjCN2Q2DEgDzjeHIVI4_RVtu24zbdNiaRtTpXkfIjUlXnRQMjf1c~AlAMJALmRTYWeBwrl5fHdRbcXpKr4eZmYzbbRlBDJeDmKSYFAV_R1TpWyNbbWyotIximzfc~esH0REfmLFZj6lNDRvMGF1b1ertaIZPndddLds0YRrmmUWZrVlO4RfJHa0ZC2kUxxup2CpcZJ6qyJsiSeWc~fnanVDhHDESSrzIQlhRCEHe2IscrJZ_V_RcuXpKr5PiW0CbaZkKoV3EXBsOWfiZugyfTVmOZKvoOIhSn0tMvvxH-o1f2wjLP~yDNMp9iEHIlRucmwZdjteOIWi6WJrmiH8I6M4C~kDzjdsbmtiHNJxfDg9NIJ6VS9jSieWcfrzNkY1Si9wbvzs7xIo9zgEIi4iw64ZMCWdO2W56-I2Tm8AI1~iTkgA3T_sOR6vYtIr_nc8N3BwVPoYl2oWL8UyNVQFQS87Izqu7swRQjcBMC_iimJlciVYIcS450AvTjn~bN8iBDJ93DF4Nw56Ex9t_iFmc_h0ZuUYYi1ibeTsH3IPRD03IwUiRC4R8CF7OChwh0IyJmM_IY4iLXgyXDf~O1NvSjI3zn7ENxz5Euoht2PmL2KyauQmWC0vIiKuH~w1gjX1MfviDsJdPiE1Im_4hHEoJj-ObtEi3-JuZDPDMHM68n95zilscSU0IdQhfidzbZJsVTIvXDyqIfziaK41jSmjUz~lHQFhEGRtdVvntaIZPmlNb6Xl3-JOimUjZrFvToR0HmTLb~kv_DVj_j8qYMyzl7wYh3vqbOT6VJ0BMnDmbhqzOfdbMW1Bcx_6q50iJkdabbeEHKRhi3Qab5RvP350JGzsOWEy_gUr_m41SM6jojdjkX9iIfzxKUJ2eGLkaFAkHf5hRGB1bFmklahs_WIeaLJuLlI2gzHILYMxBEEH0D3BLxQsJcw-cDg0L3R4YuYsgSeWUiUlRYFIXW-2cFANRDZUPWR3dB_6yLJt_XDF\",\"dxl.com_DXIVAI231_ES\":\"WuVci-tnPlyw6cuNuBEpUYWj_ZxJicAVIkE2~d8SiHItsfQMA\"}"
+        },
+        {
+          "name": "QM_U",
+          "value": "{\"u\":\"654a76ac3fd60987d1d245202c739b8b\",\"exp\":1818527080080}"
+        },
+        {
+          "name": "feh--1b2b8",
+          "value": "000178699063414895b03616099dde089e3f676a90eb7ed0"
+        },
+        {
+          "name": "dayPageViewCount",
+          "value": "{\"pageViews\":1,\"timestamp\":1787005479367}"
+        },
+        {
+          "name": "_alby_flags",
+          "value": "{\"agent-llm-model\":\"general-purpose-fast-pro\",\"alby_dashboard_enabled\":true,\"alby_enabled\":true,\"buttons-ab-strategy-dynamic-faq\":{\"variation\":\"gpt_41_mini_prompt_sections_bv\"},\"csat-survey-rate\":20,\"dynamic_faqs_ab_source\":{\"variation\":\"dynamic_faq_service\"},\"gcp-migration\":true,\"get_more_info_interrupt_stream\":true,\"home-page-banner\":{\"ctaText\":\"Learn more\",\"ctaUrl\":\"https://www.bluecore.com/press/insider-one-acquires-bluecore/?utm_source=medium&utm_medium=website&utm_campaign=bluecore-acquisition&utm_content=alby-sharing&utm_term=product-overlay\",\"enabled\":true,\"message\":\"alby has been acquired by Insider One! (But the platform isn’t going anywhere.)\"},\"mobile_buttons\":\"stacked\",\"mobile_horizontal_scroll\":false,\"ranking-strategy\":\"random\",\"show-product-carousel\":true,\"tracking-service\":true}"
+        },
+        {
+          "name": "guestLocationCookie",
+          "value": "\"|12.86|74.84|MANGALORE|KA|IN\""
+        },
+        {
+          "name": "wandz-interactions",
+          "value": "{}"
+        },
+        {
+          "name": "_alby_token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiaWQiOiI1NWMwMThlOC00Y2ZjLTRkZmEtYTc3OS1kY2ViMDNhNDRmNDYiLCJibnMiOnsiZHhsX2dyb3VwIjoiNTVjMDE4ZTgtNGNmYy00ZGZhLWE3NzktZGNlYjAzYTQ0ZjQ2In0sImlhdCI6MTc4Njk5MTA3MiwiaXNzIjoiaHR0cHM6Ly9hbGJ5LmNvbSIsInN1YiI6ImYzOTQ0ZTViLWZmMjItNGJkYS1iMGY3LWYxYjQwN2JmM2IyZCJ9.X3lSmD3yjYYWsg7d4CnUgBK2hrhqqM2sOCNu3RNrEGE"
+        },
+        {
+          "name": "_uetsid",
+          "value": "e12758009a6711f1b1a1253cbe1b44aa"
+        },
+        {
+          "name": "feh--30cb83",
+          "value": "000178699107630508809aae5871bf50e1d11845cc8062f7"
+        },
+        {
+          "name": "_boomr_akamaiXhrRetry",
+          "value": "{\"items\":{},\"expires\":1786992869202}"
+        },
+        {
+          "name": "cart_token",
+          "value": "\"b2a66c63-a078-4325-acf6-93e7d91e1d37\""
+        },
+        {
+          "name": "lastExternalReferrerTime",
+          "value": "1786991265993"
+        },
+        {
+          "name": "_uetsid_exp",
+          "value": "Tue, 18 Aug 2026 18:27:46 GMT"
+        },
+        {
+          "name": "__$intc",
+          "value": "{\"startTime\":1786991127519,\"lastPersistTime\":1786991127519,\"counts\":{},\"nonTrustedLog\":[]}"
+        },
+        {
+          "name": "currency",
+          "value": "USD"
+        },
+        {
+          "name": "country",
+          "value": "US"
+        },
+        {
+          "name": "xjhysnfefqnkscnb",
+          "value": "KbHxpaA2yFubRejXDdz~XNxVhisZ8IH2yFvbDLyViA302hCZgLhUzdwxi1vbDQiKvE1hmJ5bSilZ858~XNxbRei_EVtkmJ5bch6Idwty3I4bxRnUiN8yXN9LxmvYdIHlSsudg55_SF-0nN6b7RhHyF0xWztag5kHy5w1CEIMcKiYyh8y3lCLudwJhF50C1vbDQiKvE1hmNxcEqpYyFB~W54eRKuUE92hjk7LNikaSw3x253IuCxHOJ3xWz5ZDZvHyN4-SEIMcKiVE94y2txdRenYhF3xW_xctVjYE0tnjA2IxmvYy5wx3M4ZxejVhJ4-2o4bxu0Evo6kCFuYhpuUyl3yy1vbDQiKvE1hm_5bD1sVhFv0y1zLxqv_hJ1yWJ2agmrHy5w1CEIMcKiZ855~W1-bg0uUE92hjk7LNi0Uhd8knN-cgmkYu5u-2yuOudsEyd4-2_2ZcRhYyF12XN-YEluUE92hjk7LNizHyd4kWz6dgLzVd53yXMuOudsEyNv-i1vbDZrXhV1xXZ4bEinEvo6kCF-bympVEhBkmBwcEi2Zu540mZuOudsEyNv-i1tdSquHzRDhjk7LNiqZ85syHJ8dyhuYFJyhjk7LNinYE9y-GRtZSmlZzZ~x2R9LxmvYdIHlSsudNVjY8IHlSsuYgVhYTlB~WJ9Lyq3XiRByXE4YDZtEvo6kCF9cNVhYyF12XN-YEluahFz-244YDZtEvo6kCFCahejVS43x253IuCxHOJ2xX79Lx1vYEd1yWB6ahluUE92hjk7LNinYE9y-GQ4YDZtEvo6kCF2bD1pYu1v0y1wbEqvYhk3x253IuCxHOJv-3RubRujYSlu~y14ZhpiKvE1hnNtZ7VyYiA30mB1dhqlYu5u-2yuOudsEyNBkn7-byqlZyV81C1vbDQiKvE1hmB9cDu0Z85syG5uZgq0Yd5u-2yuOudsEy5wxnR2YcRjVS43~2B3cS9sVd5u-2yuOudsEyh2kmJ5bch6Idwt0GBHcResHyN4-SEIMcKiUER3kmF8YgVjXO5~-yEIMcKiUER3knBDYgV0_h12yXN8agluUE92hjk7LNimYE5B0y1zbDZnYSVs0Gh9LxmvYdIHlSsucRe5ZSF1-2F0Zgm0Z85u-2yuOudsEyg3-212agVlHh1w1HF-eNVuViQtnjA2IxipYyc3x253IuCxHOJy1Wy4YEip_SV4kmJ5bch6Idwt03J2dD9kVEVBkmJ8ahqlY85u-2yuOudsEyZsx2RubDZrHyN4-SEIMcKiVSk3-mzzYhmzViR8kmJ5bch6Idwtym54dSluVFNBxXN-Y7VjYE0tnjA2IxekHyR41WF2ZgmsXhN0km1xdNh6Idwt~W1CbRDzHzJ21GBzLxmvYdIHlSsuYDquXzM3x2t5dgqmYSF7yS1vbDQiKvE1hnR4cRHnHyN4-SEIMcKiZyV8kXc4YDZtEvo6kCFCYg1zHyN7yWBCahylUER3kmJ5bch6Idwt03NtdR9jHyN7~XNxb7VuViQtnjA2IypuUEhs-m1xbRek_yl8-3E4YDZtEvo6kCFzcEqh_SlukmJ5bch6Idwt1GRtbR91Yhl6kmJ5bch6Idwt1HFtYDGuZEVu1XFxZSypZElBkmJ5bch6Idwt1HFtYDHpYyc7kmJ~YgVuVhxsyHV-cDZyHyN4-SEIMcKiUExs0mhCecVtZ8IHlSsuYhmzViR8kmF5dgVjVhVFx2dtbx1lHyN4-SEIMcKiZE5s0C12agmkYu5u-2yuOudsEyF5~S1ubEuuUEVw2GJ~YgVnVd5u-2yuOudsEylv03h4Y7VyYSNv-i1vbDQiKvE1hmB6acViYTVwx258ZcVjYE0tnjA2IymlUFV7yS17dgeu_TNw0nVxLxmvYdIHlSsudDH4ZTB8~Gk3ch4uVEx4xmB2LymzYO5xxXJCbS8uYyVBhjk7LNijVS43~nJwZgLp_zI3-mRCIuCxHOJC~S16bE1lZzJw1mhxdEluUE92hjk7LNizVd52-21xdRe0Vd53yXMuOudsEzVBknFwLxLpYyt82W1xcx15HyN4-SEIMcKiZEI3-W54Zhqh_SU3-mRCIuCxHOJxkmz5bxu0UiRwkm1xdNh6Idwt1XI4YEilUiR~1mRvZRUuUE92hjk7LNizUEV3yTZ4YDZtEvo6kCF0c7VhVzRw0n7tecVjYE0tnjA2IxmkYu5G-3NCYgduUE92hjk7LNiiUh03-nE3ZRe0Ud53yXMuOudsEyFv02R8dx9jVd5y-25zbRtuUE92hjk7LNitUiRu~C1tZSmy_zI3-3FzIuCxHOJ-0yztZDuu_O53yX_8ZgLpU85u-2yuOudsEyx~1mQ4cxu6ah5ukmJ5bch6Idwt02J8aha0HyN7xXlHZg1nHyN4-SEIMcKiXhI3xWN4eSluUE92hjk7LNiiVhFu-204aEi4VO53yXMuOudsEyJ41W1vZgu4UEhs-m_xLxmvYdIHlSsuYDquHyJ4-2zCcxepYu5u-2yuOudsEzJs0GhwLgmkYu5G-3NCYgduUE92hjk7LNi5YFVB1WFxLxmvYdIHlSsubR9nXTRt-3dvZRUuUE92hjk7LNioUu5GxWd5b7VuViQtnjA2Iyy3YE5E~2B7dydtUd5y-G5uYgKuZFN1kmVtcEqsad53yXMuOudsEyZs03M4ZxZu_TM3-mRCIuCxHOJ2-21xdRe0Vd53yXMuOudsEy93yXN8dhm0HyN4-SEIMcKi_TJsx2o4cExuZytv-XI4YDZtEvo6kCF3dgVjXSt~-i13YhirViR4km1xdNh6Idwt0nM4dgqtZEV71mQ4bxu0Evo6kCFHagRnHyN4-SEIMcKiUEx41WNybReyVd5u-2yuOudsEzB~2GR2Lyi1Uylu-216cxZqVhNBkmJ5bch6Idwty255ZDLlZFl3yGhvYhqpYE43x253IuCxHOJ7yXI4YDLv_hR~-mB8ecVjYE0tnjA2IxLh_h5u~H7tZNR3ZyF50GR8LyayXiZsx3h3YgVhVEV7kmh5IuCxHOJ1xXR4YD5wUhQ30HF-dxejah1s-mBzZhhuXh8tnjA2Ixe0Z81E0mB6cRuyHzB7~XVtYE9tUh5sy2R8Lx9vEvo6kCFDcDtuVy931GBFZhmvYhU3x253IuCxHOJwyG_xMcVjViJB-21tLxVl_OIHlSsuZSltUht8xiztLxerUh1s~WdwLxVl_OIHlSsubg9jZS43x253IuCxHOJukm_5LgRw_hx8yS14ZhpiKvE1hnJ-dRuhZFNw1HI4YxL1VhN40mQ4YDZtEvo6kCFwcEutHiNwxy1vYhmhYSV2yWN-YcVjYE0tnjA2Iyav_EV70mREagu3Z85u-2yuOudsEyN4yGQ4aye1ViJGkmJ5bch6Idwt~WztZDuzHzB412R8cxu2XhVE0y1vbDQiKvE1hnN8dgumXiRu-3F6LxmvYdIHlSsuZghyHvN1~WVCLxmvYdIHlSsubge4UER3kmF5bEqz_TJs0GJwbtVjYE0tnjA2IylwHvJ2yG04bxu0Evo6kCF7dgeu_SN41W1CLxmvYdIHlSsucS4uYFd3yXF-ccVuViQtnjA2IyuzHiU3-37xby4uYyVBhjk7LNisXh500HF5dRuj_O5u1WNtcEyjHyN4-SEIMcKiYhF50y1zcEqh_SlukmJ5bch6Idwt0zI4bR9nXTRt-3dvZRUuUE92hjk7LNipViN3xXFxLxmvYdIHlSsuZDLvUyF1kWQ4YDZtEvo6kCF3YhqjXO58~GB8ZhqoZy9Cy2c4YDZtEvo6kCFwM854_zI8m2pFdD5jYd5u-G5DZRyyYE5Bkm1xdNh6Idwt~WztZDuzHyRF-C1vbDQiKvE1hmd5bgttU9MDkm1-YDttXh5u-21CYgm0HyN4-SEIMcKiUER3knJxYhijXTN50mh4Z7VuViQtnjA2IxelIPJumjJvOdd2VO5uyG0CLxyvZzRw0i1vbDQiKvE1hnJDcxysad1C0y1vbDQiKvE1hmJwbtVzUEF1yWN8bDVlHyN4-SEIMcKiUiB5kmt-bxGiKvE1hmF-ZNVnHyR41WF2ZgmsXhN0km1xdNh6Idwtx3JHbxluYS940GzxLxRlEvo6kCFybRu4HyNGxmR8cDZ1ZyNwkmJ5bch6Idwtx2N4Lup4ISF50C1vbDQiKvE1hnI4YgpuZE1sxXN5LxVl_OIHlSsudRenZ857yC12agVrZFl3yXFzecVjYE0tnjA2IxDzHyZ~-mN3agVlHyN4-SEIMcKiZFRs1HI4Z7VkYFVt-GRvbR9jX853yXMuOudsEyl2xW_xc7VjYE5ByW1CcEqhUEs3~W4uOudsEzV8kmJ1Lg9lHyN4-SEIMcKi_SFykmF5dgVjVhVFx2dtbx1lHyN4-SEIMcKiVS9CxmtxdxuyXhZGkmJ5bch6IdwtxX7-LymlUFV7yWNEahmp_O5u-2yuOudsEyF5~S12ag1o_SJ42GJwbtVjYE0tnjA2IylzHhVCkX_xcEptId5s-WBIbDVh_FM3x253IuCxHOJ0xXJ6ZhizXFk2-GBuc7VjYE0tnjA2IyahZzR3yXE3agRhVEV8kmF2dgujYFJwkmJ5bch6Idwt0HRubge0XhM3x253IuCxHOJskmz1dR1jVS43x253IuCxHOJ4121xcx9xHy5w1CEIMcKiZSR~-WZ3cSivVO1x-XU9LxypYyR2~W1xLxmvYdIHlSsuYDZu_SVF1H_xYtVjYE0tnjA2Iy9laTQ20GhGZgKuUE92hjk7LNikah51kmz1dR1jVS43x253IuCxHOJv2W13LxRr_SduyG04YDZtEvo6kCFtLxmkYy101GZ4YDZtEvo6kCFxdxuyViNB~nI4bxu0Evo6kCFDcSluUh5s-HhCagmzHzls~G55LxmvYdIHlSsudSilYyR2~WJ8b7VjYE0tnjA2Iyl3HyFvyHN~ahluUE92hjk7LNikViZw-G56ZhizHyd4-2_2ZcVjYE0tnjA2Ix9uZFRsy3FtbcVjYE0tnjA2IymzYO1~-WBzZhltUh1s2m54LxmvYdIHlSsuZDYyUEx41WM4bEinEvo6kCFubEikViJx0mRxLxmvYdIHlSsuMOh2JSE5ljUDYdl0JSE8mmBxOO8xVSEEmTcEYut2U9M2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNhwIyY6lTFuZxp1J9ABlDdyYuqmUeADyjNtNDh5VPABnCztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvBtmDE8M8h3J9QCxjM7MO1iUvM8yTNxMuqmUyY7nGIELgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtlGFuYgqkJSFtyjg9NO_wUek6lDNxOguhUyU7xWVxMgdtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCE6ZOihJekDmj_wNd00ISQ7nTZ8Nd_5Jec7nDNxNgx4J81syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IuakJ9E6xzhyMulwJ9Q5mjZGNgdxU9RvlWECMRxxJ9MEkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiISRsm2QENgxwJhJumD_xNRdwUeI8nTM8ZxxwU9htnGM3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOI6lD63Mu4tIeIGkTE8XEltIvM2ljADLd_tIeNq1HI3Md0yIvYEmjMEN7RjYSlw-nNCbDVzHiM3xWptbgepXSQ3-mRCIuCxHOI6lD63Mu4tIeIGkTE8XEltIvM2ljADLd_tIeNq1HI3Md0yIvYEmjQDN7RjYSlw-nNCbDVzHiM3xWptbgepXSQ3-mRCIuCxHOI6lD63Mu4tIeIGkTE8XEltIvM2ljADLd_tIeNq1HI3Md0yIvYEmjcEMcRjYSlw-nNCbDVzHiM3xWptbgepXSQ3-mRCIuCxHOI6lDZ3MudtIeMFkTE8MwZzHeI8kTMFLdhxKO06mzVrdSltIeYFlzU8NutxKO1u-Ghxbyq0YE58kXI4YgHhYhF~~GM4bxu0Evo6kCE7Md_wIPQ8mjc4YDZsYSVu1C1-ZDZkXhd~1GB2LxmvYdIHlSsuMddzHipGyCy9OO8uYhtB-3FxcE_uUE92hjk7LNhxIhYGlmBuNRikIvIByjZDOgukUvY7mjMEORd1VPNvlSztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvE7mDgDNumhJ9ZwmTMHOdahVvk5mTFwYup5JSEDnWVyLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtlTEFLu_uIO46hjk7LNhxIENtmGVtM85jUegByDQ6OdtyIhY7yWQ8MDiiJEVwlCztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvE8ymEGM8hwVeY6nDMGZdqhI9VtlmMHYDuiJPIByTM7LgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtlTVuMDqhIPgBmzByNOp5KSJtxjM7M8ehVvM6nWJtY8ltUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCE7N8miVvE5mC1taEm0UiQ3~W4uOudsEvEEl2FyMd_1HyF003NtdNVpY8IHlSsuMd0zUyY6lDU4YgHz_SFBkmh5IuCxHOI6mzJuZudwJ85s~3JCYhpuXh8tnjA2Iud3IEJxlT6GLxerZFRs1C1-b7h6IdwtlTZ9YxxxIPk3xWp9dRe0Hyl4hjk7LNhxJ9NtyjA6YcVhXFNBxXM4agYiKvE1hjAFMDimIeBtkmB1cEqh_O5~-yEIMcKiIec8xmU7MRluUht81GBCLx9vEvo6kCE7N8miVvE5yC1taEm0UiQ3~W4uOudsEvEEl2FyMdalHyF003NtdNVpY8IHlSsuMd0zUyY6lGU4YgHz_SFBkmh5IuCxHOI6mzJuZudxIO5s~3JCYhpuXh8tnjA2Iud3IEJxlTA7LxerZFRs1C1-b7h6IdwtlTZHNxp4J9ZxxTIHNO40JPlwlzUDYu44UvYDmzIFNRxtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCE7NDpwKek6nS1taEm0UiQ3~W4uOudsEvEEyGQCY8d1HyF003NtdNVpY8IHlSsuMd4tIvADkTE8MtQxIg98kTE9LdhwJd06lDU3Md0wTFR8kTAEOddzIekEljI3YDLpVh5B1G54c7RzHyF0xWztag5kHy5w1CEIMcKiIeg2lj6FLdd5I806nT_rc7QyI80Dliy8M8_tIeQCw3N9Ldd2KPEFlTA6MOttUEx~yW1CdRZuZ818kmB1YgRhXhhvkm1xdNh6IdwtlTc3MudyHeIBmSy7Nu9fZ807lyyCNtQxJeM2mDFrdSltIeYEmjIEOO_zKd1u-Ghxbyq0YE58kXI4YgHhYhF~~GM4bxu0Evo6kCE7OOptJ9M2lTE9Ldd4ID98kTE9LdhwJd06lDU3MdpwTFR8kTAEOOd4IeM6mTM3YDLpVh5B1G54c7RzHyF0xWztag5kHy5w1CEIMcKiIehulDcCOReiVvI5mGMDOgiiU9MGxT7wN8tzUedslWM3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOI6nTZ8Mgt1JvU6nDcCMuahKSIEyWBuY8l0VyUBljI7ZcRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hjAHZdtxIPcEmmICZdpxKeUFmTZ7Mxd4UhFwlDQGMRh3HhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuMgx4KeZulDE8Ogh3JSZtmmA9MdpzIEVwyTNuN8alJPI2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNhyIPg6lWMCM81iIeIBlWM8Yu82UEQ6lmQHN8ujIyM7yCztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvI8lDUDZOp3IhYFnTM8MduhJeRtnTVyMxyhIhMElTRxLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtljJvMgp1KhI6lzBwNO5kJhFulmQ6M8qhJeIEmDFvMOptUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCE8NRx0UeYEmTZ6Mgt0KSJuxWBxN8tyIhQ5nDBtMghxJu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2Iuh1JhNtnDZHNRhyU9QExTZHNuxzKSE6yGUHZOukIyYFkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiIvk5mmADNO5lJERsmDJyY89lUvNxlDRwORtwVyI7yDg3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOI7yD6ENdukIhMDyGUCOgqjUecGlTJyNDykIhIElz7vNcRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hjFxM8lxIeQ8mDgGZOp5UeBsmzM9ZxtyIPAEmjgFNRp5HhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuM7QyI9Y2ljMGLd1fZ807lyy8MOttIeADkTACMQZ0Z806mzECNO8wJ9gBkWJ2aguu_TR4-nI3c7VhXEF2xWh~ZNVuViQtnjA2IultIvMDkTECONQ3TFM2ljI3Mu_1HeE5miy7NOaf_TM2lTZ8NOp5IeA8mCzvbR9lYzRB-219LhluUhts-WB-aRpuYyVBhjk7LNhzHeI8miy8NO4tJD98kTE9LdhwJd06lDU3Md0wTFR8kTAFMup0KeE6nTM3YDLpVh5B1G54c7RzHyF0xWztag5kHy5w1CEIMcKiI807lzU3Mup4Hedq0yy8M7QyIPU2lT6ELdd3IR9B0yy7N8h0JPk6mTM9LgmsXhV31HN5byltZ85s~2B3Yg9oVO53yXMuOudsEvM2nDQ3Mdd3HeE8w3I3MultIvECkT63Mdmf_TM2lTZ7Md0wI9QElSzvbR9lYzRB-219LhluUhts-WB-aRpuYyVBhjk7LNhzHegCkTA7N7QxID98kTE9LdhxJd05kTA9XEqzHeEElTAFMOl4I9M2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuM7Q4Ju06nDU3MdefZ807lyy8MdttIO06l15Cc7QxJ9EElTMGMup1HhN1~WR4dSqvYzM20y1taDetUhlzyC14ZhpiKvE1hjI3OOxtIegDkTA7XEltIvM2ljADLd_tJg9B0yy7N8d3IeQDnTQELgmsXhV31HN5byltZ85s~2B3Yg9oVO53yXMuOudsEvM6yjACM8yjU9gDlTMEM804VyUEx2UCYDmkIyQ5mjI7LgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtlzQ3Md0xHeI5lyyGOfZzHeI8kTE6NcQxIPY2lTM6XEqzHeEElD6ENOp5J9c2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuM8ttIec6kTE6M7Q4Kg98kTE9LdhwJd06lDU3MdpwTFR8kTAFMO_2JPU7lD63YDLpVh5B1G54c7RzHyF0xWztag5kHy5w1CEIMcKiI9U2lTZ7LdhwI80FnV59LdhzHeI5mSy7MOxtIec5w3N9Ldd3IPADmDQ9M84tUEx~yW1CdRZuZ818kmB1YgRhXhhvkm1xdNh6IdwtlzQ8ZRhxISZtmDZENO45VSEDl2FuZd01JEFtyTQDNOttUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCE9YxpwUvY5mzRtMxd0UeFvnDAFNDxyU9FvlmU6NRekKO1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IumjJelvlWBtNDqhKPRwlmEGNgp3IyUClzdvNupyVPYCkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiIEQFmDM6N8qjUvBumDQ9Zxd1JEIExWU9NO4wJvVvlGU3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOI8yj66NuhyJyRtlWUCYd4yUvIDxWJwMu4zJvgBnWE8ZtRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hjJyNd41UENwnTI7ZupzVvcFnTQCZd8zVeUBmjJvNOdyHhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuNO_3JvNvlGJuOgikJSUBmDg9N8ehVPZuxTc8Zd80IhE2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNh0Iec7lDFxMxelJhEBlTUFYgiiJEFxmzhwZxpyUehvmyztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvQ7mD67Yu5kJvMBmDNyYgeiKSQ5yTMCMuekUeMFmGEGLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtmDM3Md83HeI5miy7N85fZ807lyy8MdttIO06l15Cc7QxJ9E8mTAGMul2HhN1~WR4dSqvYzM20y1taDetUhlzyC14ZhpiKvE1hjMCLdd5J807lDU3Md04TFM2ljI3Mud1HeA2lTJrdSltIec6lzQ7OOpyIu1u-Ghxbyq0YE58kXI4YgHhYhF~~GM4bxu0Evo6kCECNNQxKec2lj6ELdd3KR98kTE9LdhxJd05kTAEXEqzHeEElTIDMd05Jvc2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuNOptIekEkTE6NtQxJ9hq0yy8M7QyIeU2lCyDXEqzHeEElTIDMd03JvE2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuNOptIekEkTE9NNQyIvNq0yy8M7QyIeU2lCyDXEqzHeEElj6FN8t2JeI2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuNOptIekEkTE9NNQyIvNq0yy8M7QyIeU2lCyDXEqzHeEElj6FN8xwIPQ2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuNOptIvA8kTA3MuhzTFM2ljI3Mud1HeA2lTJrdSltIec6nDgEMdlzId1u-Ghxbyq0YE58kXI4YgHhYhF~~GM4bxu0Evo6kCECNNQyIPM2lTgCLddwID98kTE9Ldp2HeEClyyCMwZ0Z806mjg9MuhwJeQDkWJ2aguu_TR4-nI3c7VhXEF2xWh~ZNVuViQtnjA2Iup0HeI5lyy7OdptIeA8w3I3MultJvI2ljI6Ldd2JD9B0yy7Nu8zIvEElDQ6LgmsXhV31HN5byltZ85s~2B3Yg9oVO53yXMuOudsEvQBkTE6M7QxKeQ2ljAGXEltIvM2lj6DLddwJu06mD7rdSltIec5mjAFNdlyJu1u-Ghxbyq0YE58kXI4YgHhYhF~~GM4bxu0Evo6kCECNNQyIPQ2mDZ3OO1fZ807lyy8MdttIO06l15Cc7QxJ9EFnTU7OO83HhN1~WR4dSqvYzM20y1taDetUhlzyC14ZhpiKvE1hjMCLdhwJO0BmyyGNCZzHeI8kTE7NcQwHeVq1HI3Md0xKPkDlTZDMtRjYSlw-nNCbDVzHiM3xWptbgepXSQ3-mRCIuCxHOIBmCy8Mu_tIeMCkTACNfZzHeI8kTE6NcQxIPY2lTM6XEqzHeEEljgHM8l4JPI2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuNOptIvI5kTA9NcQxJPVq0yy8M7QyIPU2lT6ELdd3IR9B0yy7N8h5KeM8nTQ9LgmsXhV31HN5byltZ85s~2B3Yg9oVO53yXMuOudsEvQBkTE8MNQxJeM2ljRrc7QyI807lDQ3Md_2HeEBlF5Cc7QxJ9IFlTAHOOtxHhN1~WR4dSqvYzM20y1taDetUhlzyC14ZhpiKvE1hjMDOcR5YFg2mTA9LxRr_S97yXJ6LxmvYdIHlSsuNOylIvVuymQDMRd1JSE7xTduNDtzUhE7nTFtZxx2KhY2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNh0KPI5xWRwZup5IecBnDc8Odx2VSNxymQCNRt1JvMFySztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvRtymVxNDqhVvg6lzNuNdehJ9gExz7yYdt5UEEEnWICLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtmGMHNDl0Iec5yjBxNOdwU9gGyDNtNO_0J9Q7m2EFMDttUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCEDMO1mKeACyGNwYu80VvgCnDZCNO05UvAByWADYdyjVu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IutwKeNtnDZCOO85J9RsmTAHNu0yUek7lzEDZutwJPMDkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiJeI2nTA3MddtIvE7w3I3MultIvECkT63Mdyf_TM2lTZ6Od44KeUBmizvbR9lYzRB-219LhluUhts-WB-aRpuYyVBhjk7LNh1Iu0GlSy7McQyIeJq0yy8M7QyIeU2lCyDXEqzHeEElDgGOO85Jek2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuNdhtKeE2mjZ3MdifZ806lDM3Mdd3HeEFliyDOfZ0Z806mzI7N8p4JPM6kWJ2aguu_TR4-nI3c7VhXEF2xWh~ZNVuViQtnjA2IutzIhRtnD7uNddzJeRwlGRuYgp2UvgDyDgGM8pwJSUDkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiJeM6ymU6OOmjIEQFmDcEZgdwKhFuymI6ZgmmVegExjZ3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOICmCy7NuptIvQ2ljM9XEltIvM2lj6DLddwJu06mD7rdSltIeYGnDc9MOd5IO1u-Ghxbyq0YE58kXI4YgHhYhF~~GM4bxu0Evo6kCEDNNQxJvQ2ljM3MupzTFM2ljI3Mu_1HeE5miy7NOaf_TM2lTUHOO4zIeA6nCzvbR9lYzRB-219LhluUhts-WB-aRpuYyVBhjk7LNh1JO06mjZ3Nd_tKPJq0yy8M7Q0Ju06mTI3NO9f_TM2lTUHMdlxJvgCmCzvbR9lYzRB-219LhluUhts-WB-aRpuYyVBhjk7LNh1JO06nTc3Md8yHeEFmF59LdhzHeI5mSy7MOxtIeQ5w3N9Ldd3IvY8lDQ9OdhtUEx~yW1CdRZuZ818kmB1YgRhXhhvkm1xdNh6IdwtmTM3Md84HeEGliy7OOqfZ807lyy8MOttIeADkTAFMQZ0Z806mzEEM8_1IvMEkWJ2aguu_TR4-nI3c7VhXEF2xWh~ZNVuViQtnjA2Iut0Heg5kTA9OcQxJ9Nq0yy8M7QyIPU2lT6ELdd3IR9B0yy7Nu05KekDmzcDLgmsXhV31HN5byltZ85s~2B3Yg9oVO53yXMuOudsEvUBkTc7LddyIu07lTRrc7QyI807lDQ3Md_2HeEBlF5Cc7QxJvkClj67N8h5HhN1~WR4dSqvYzM20y1taDetUhlzyC14ZhpiKvE1hjQCLd4xHegEkTZ9XEltIvM2lj6DLddwJu06mD7rdSltIeYEmDQFOOp1Id1u-Ghxbyq0YE58kXI4YgHhYhF~~GM4bxu0Evo6kCEDNNQ4J80Dliy7Md5fZ807lyyCNcQxKPA2ljECXEqzHeEDnTZ6Mdt0J9U2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuNdptKPc2mjE3Mdd4TFM2ljI3NOxtIeU8kTM8XEqzHeEDnTZ6Md0wIvg2x2t-ZgV0_S930yz9LxerUh1s~WdwLxVl_OIHlSsuNdptKPc2mjE3Mdd4TFM2ljI3NuhtIvM5kTACNfZ0Z806mjgFMOd2JPI7kWJ2aguu_TR4-nI3c7VhXEF2xWh~ZNVuViQtnjA2Iut0UyQ7mDMENgl1UvQ7lWMHYgd1JPIDlzMHM8l3JyUGkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiJedslz_tNDhyVPgDmDAENRhwJvBxnDhxORiiIPdvxzg3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOICnGE9NDd5UEYGlWQCOd0wUeI6yjACNRt2KeI7x2QCMcRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hjQGYxl2J9cBnTg6OdpyIeIGmT67Od0yIEQGlWI6MxpwHhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuNd8xJhUFnDI8NOuiJPA7x2FxORl2UyM7xTAHMxmmJ9A2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNh1KhY8mzICYdyiIEEBx2IHYulzJyZunWU8ZOtwJyUFxyztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvVumj66YxqiJ9RxljNwYd44IyZxyDhxNOahVPBulGJtLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtmWJwZxtwVyNtljBtNOd3VPg6lGByNul3IhMGxjVvMRhtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCEDYDuhIeMGlTVvOgx0ISY7nDZCY8ilU9IGnGAFZd5kVu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IuukVPUDljACNRh4UeQFmjBtMDh1U9ZunTcCYd_xJvA8kWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiJhYCyGNxNRqiJec6mGE9MO8yKSI7xWMCNOilJhEElzU3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOIDlzFwN8mlJyU8mGMCYu03UyMDljQFOdp3VSEBljdyYtRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hjUGNRpwVPQ8kmB1cEqh_O5~-yEIMcKiJvgByD7wNRhuUht81GBCLx9vEvo6kCEEOOqkVPM8lC1taEm0UiQ3~W4uOudsEvYFmzgCOd_2HyF003NtdNVpY8IHlSsuNu43KeQGlDZ4YgHz_SFBkmh5IuCxHOIDnDZHNO8xIO5s~3JCYhpuXh8tnjA2Iux4J9kBnTA7LxerZFRs1C1-b7h6IdwtmjcFOdp5IeI3xWp9dRe0Hyl4hjk7LNh2KeBuyD6FY8t4JvABnGMFOdd0UeFsxTA6Nxl2JvhwyiztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvYGyTg7Yxp5J9ltmzMDNgp4VPU8lmVuZu4xIeRxlThtLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtmmAEN8x2ISNvnTJuNOmlKSJvnDBxYumkIec5xzQ7ZxxtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCEEZdh1UyVvmmNyM8l0IPc6xWEHMOqmKSRtxjBtYuulId1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IuymVPACmzU8ZdamJPQ7mTUGN8h5KPhslzNwMdl0IhYCkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiJ9M6mjIFOgejKhQGmDQFMRhyIvUEmTE6NOp2IvgDyGQ3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOIElzJuYd_2UvBvmzZCMuelUvhvmDRwYdp1KecEmDACOcRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hjZCOgx2UEU6lDg7NdqlVPVtlWMFN8mmIPcFmmNyOghyHhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuN843I9MDxzAFZguhJPc8yDdvNOqlUvNwxTgGY8xyIvA2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNh3UeNvxTc8Zud0VvQBlmEGYgx3JEM8yDUEOO5hKSZulyztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvdsx2E9Y8yjVPEBmzMCNd04JSM8xWVuOdd3KeUBmTU8LgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6Idwtm2JxN8h5U9g8mDNyNOuiIPgGljdyMu1mIeIGlDc8N84tUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCEFYDxyUhYEyjUGM8x0UvVsnWADM8dxU9VvlzhvNgmkUu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2Iu1kKSU8lWVtNxx5VPQ8l2IGZxhwJPMGnWU7YuehVvQFkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiJEVsmDEHYxp0Jeg5mGAENxh5IPg8yTAGOdakVyJwmjE3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOIEyj6FNu1jVhYGxjcCMxlxKSU5yWQFNOx0Ivc8xTBuNNRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hjcDOgmiJhU8mGI8OOp0UvAFx2ICNxhzJ9UEmWByZgh2HhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuOO5jIvI7mDRtMuxwJPM8m2AGMgt4VyU8lz67NDd5UeI2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNh4UeZsyGRtYdp4KeMBlTM6ORt0VeQGlWACOgilKeUEmiztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEvhtlThwZd_zIPIGmzMEMRl4VSRsyj69OO0xJeg7nWIHLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtnGJtNOilU9hxm2IGNOehISEClTZ8MO1lUvBxlTc8NRdtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCEGZOp0J9g6nDFvYxt0JvE6xjJvZRt5IhFvyGI9M81lVO1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2Iu8wIekEmjBtYgpzI9Q8xWEGZulzVPI5yTQDORqkKeA6kWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiKeAByjAHNDtwVvc5mD7tMxd2JvFxm2UHM8mkKeRvxmI3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOIGlDQ9NO_3HyZ10y1wbEuiYSVu-Ghva7VuViQtnjA2Iu80IvFtyDQHMdxwJvQFljhtNRikIvltlzcEMDx0UvhxkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiKeZsxmFtMddyUeAGmGNtNxh4IPACmj_xZgx4IPYCmDI3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOIGmy0ENNUyJeU3lTEuOudsEvlsyjI9N88wI9lwxjNwYxd5Uvg8nTcEMgymJec8yDcHLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtnWNuOOmiUvA8ljdyNRlzIhIFmmUFN8h0Jec5yDZDNO_tUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCEHZuymUEQEl2JuZgp0IhFvnTg6N8lxVek6lGAFNgt0Iu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IxdwVPdvyDdyZOd2VPRuymVuORtyJeFwmz_yZgmlIhVwkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiUeBxxjQ6Yuh2UhRxmDRwMDdwJyIFl2BwNOtwVvY8lDI3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOJslj_vMDeiIPY7xmECMup0UecByGA6OO9hVhM7nTg6MtRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hmAEMxmjJEMFxjUGZdpxUvlslDgEORpzVvFwyjcFYDx1HhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuYd5kIPJxlWBuZgqiJPhvlmAEMgqkIPgDymByMDimIPY2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNihVSF5knNEIuCxHOJsyGMDYgmlUvVwnGECNgmkUyNvmWQDYuimVvVwl2VyN7RhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hmBwZSqoXiM3x253IuCxHOJsyHI4cEqpUEtGxWN9dSxuUE92hjk7LNihVTZw0nN-cD9uV85u-2yuOudsEyFwm2E7Zd5jJeA5ljNvN844VeA7ljMDMul1JEM7nTQ6LgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtxWUCZxh0VhYGxmACNReiJ9gClWM7ORt2IhY8xmAGORptUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCFtbSqp_TVvySztcxuuUd5u-2yuOudsEyF20CztcR8uUiB50y1tcSasVd5u-2yuOudsEyF3xWtHdR9jZ851-256YhmzViR8km1xdNh6IdwtxW11eRHkXiht02hCYhDxVFFE2HA3cRZ1_vVykTU8Zxp1UekDmSzvbR9lYzR303UCLhluUhts-WB-aRpuYyVBhjk7LNihYytF~2N-eSC3Vyk72nBzcdqtZd15y3_~aExtJEZsljMHN8tzHhN1~WR4dRVz_vQ20y1taDetUhlzyC14ZhpiKvE1hmB4bRL1UFlFy3RyNDm6ZFpB~mp7Lh_4IPZw0CyGYdp0I9FsmzM3YDLpVh5B-nJENNRzHyF0xWztag5kHy5w1CEIMcKiUh51-HRveh5o_hZ70Xl9eym2VEE20H7wZgq2Hedxyj69NdqiIu1u-GhxbyquZFYBkXI4YgHhYhF~~GM4bxu0Evo6kCFtcR8tU9MDkm1-YDttXh5u-21CYgm0HyN4-SEIMcKiUiB~kW1tMcVuXhNw~W1vbDV0UhNBkmJ5bch6IdwtxX7-Lxis_hVu-3FxLxewZOIHlSsuYhapHzJs2W_DbtVpY8IHlSsuYhapHzNuxWtxZSivYyU3x253IuCxHOJs0Gg4dhmlXSV7-y1vbDQiKvE1hmB6adhuUzJs-mJ~Lx9vEvo6kCFtcSakZ9g5nTI4YxLvUu5u-3FxLy1pYyR413I4bxu0Evo6kCFtcSasVd5u-2yuOudsEyF50HI4YhawYSU3x253IuCxHOJs0H_6cgi5aSg81GB3ey1q_eR2xSz6cgikays2nTgCMd9iIPU7kWJ2aguu_S581jM3c7VhXEF2xWh~ZNVuViQtnjA2Ixew_FB6xnhGedpzZhtH12lDchehHiA60GBuMcQ0IyFulDMHOgptUEx~yW1Cbym2JO18kmB1YgRhXhhvkm1xdNh6IdwtxX7FcSeiaihGmDJ7bED3XzVEmWA3cRZ4IFQ8kTMCM88wIEYGnCzvbR9lYzR303UCLhluUhts-WB-aRpuYyVBhjk7LNihZTd50WFHeSC3VyN02n_0dhuuUd15yjA6dxQtIyYFl2AGZd_0HhN1~WR4dRVz_vQ20y1taDetUhlzyC14ZhpiKvE1hmBILxVtVFB1xXNybEitHyN4-SEIMcKiUu4D02I4YDYiKvE1hmE7OOhzUyNtnTVvNOp5JvMGmzFvNxqhJ9Bvmj67M8lwHhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuYumjVyIExTUGZgqiJSJwl2BxOOd2U9M5lWEDZgd0I9U2xWQ6Mxl2IEMGlTVwLxmkYu5x-3FCZhhuUE92hjk7LNiiJPI6mmAEN8_5VegBlWUGYd42JPgDlTMHNO5jVyVwxyztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEyIBxjRvMgykUyJxmTNyZxp5VyQDnTBwZgpwVhY8lGMCLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtxjVyM8t2VvEDnDIENOt3IelsymEDZxx1UeJwmGJuYdhtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCFuN8_wI9kDx2EHOdd0U9QCxjZ9N8ekJeBuljEEN8eiKO1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2Ixh4IeQClDA9ZupwIvQFyDhtYdp4IvMBlTECOOxxKSY6kWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiUyI5mjI9OOtzJEI8mD_vMd5mVPk7lDM9ZO8yKPBsnGA3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOJtx2UGMOx2VyJwmjgCNgp4KeZslmQ7Md_yIyNxmT_wN7RhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hmFxNOmiIPU5xzgHZdpzKPJsnDhyMDpyVPNxxTIGZgyjHhFwlDFvNumjKeEDyC1vZRUuVy971GR8LxmvYdIHlSsuYyiv_FNw0iz-byqhXEU2yGBCYgqvVEh6kmJ5bch6IdwtxnF5dEmlZu1~-nNtaDtt_iMCkWNtdRekYEdz0S1vbDQiKvE1hmI4NymjHyN4hjk7LNijIvAGlmNyZux0VvMBx2IEOOamJhIDmDQGY8yhUeQEyiztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEyM8yGNwNdxyVSI8lzNxNxt5VvIFyGQDZu_4JEFsmDACLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtxzM8Yxp5JSI8yTRwNOimVPlxlGVuZOqlJPFvxz68MDhtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCFvN8h2UyZvmTNuOOh0UhU8xWQCNup0Uvk5xjI6Mut0Iu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2Ixl4VPAGymVvNxulJ9RxxThtNd85J9JvyWICMxt1VeMDkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiUEE6yGIHM8_wKPQ6mGRtZd5mVyVslzBxN8qjUyVvmmQ3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOJuyG04Yhu0YE1s1CztacVjYE0tnjA2IxmkYu5t~Xl-YxLlHyN4-SEIMcKiUER3kmF-ex9iYTk3x253IuCxHOJuyG04YDZu_SV31HJCYgmrHyl4hjk7LNijVS43-Xd6bxKuUE92hjk7LNijVS430mBHZEuuHyl4hjk7LNijVS431XJxaRuyY85u-2yuOudsEyNv-j64ZxZy_SV7kmJ5bch6Idwtx2N4M7VmYFJByXE4YDZtEvo6kCFvZRU5HyZ40nNxctVjYE0tnjA2IxmlKSEDlj_xOdejVvQCxmJtZddxI9YEmThyZRx5VSM8kWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiUEh4~WJxc7V0ZzV81GQ4YDZtEvo6kCFvbR40VTJ~2GECZhqhayID-XgEccRwUzVBmHg3Nxt2UEE8lWIHLgmsXhV31G19duptZ85s~2B3Yg9oVO53yXMuOudsEyN1~G0CYE94IFlu~nJIZEaw_FZ6kX7vOgUxVd1wmGJwYdeiKPA2x2t-ZgV0YzNDmCz9LxerUh1s~WdwLxVl_OIHlSsuYDLrZSx0~Xc9egmtaikE-GtvdSdtZTp6nGdxLgykU9IDmjhyMNRjYSlw-nN4cEx0HiM3xWptbgepXSQ3-mRCIuCxHOJu-S1vcxuh_SlDyWJwbtVjYE0tnjA2IxmvYSxwx3N5ctQ0JPMEmy1Dc7V0_zN61WB8ZgpuUE92hjk7LNijYE58yW1CLxLpYyt82W1xcx15HyN4-SEIMcKiUE931GRGdSuhYO52yWN-YcVuViQtnjA2Ixmv_iB4-mJtYx9uHyN4-SEIMcKiUFJtkmptcx1vHyN4-SEIMcKiUFM3-37xby1lUy15kmJ5bch6Idwtx3R9dR5lYTA3x253IuCxHOJvkmz5bxu0UiRwkm1xdNh6IdwtyD7vMOd4Uvk6mjQGNRylJSE6mjg6MRijVeE6lzUDNDdtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCFwMguhIeU7x2U9Yut0JeY8xTdvM81lJSRxyjU6Zd4xVu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IxpyYTh6-2N7Yya5JEM7kmJ2bEukVzJ4-nM4bxu0Evo6kCFwMxY1XhRExWJzMD15_85u-G5DZRyyYE5Bkm1xdNh6IdwtyDI6N89iIyE8xWBuNOt5VPg8mGQ9MRlwI9MDmzQ8OgdtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCFwMDhzVhhC-zIDdEDlXO5u-G5DZRyyYE5Bkm1xdNh6IdwtyDJ4bDmyUEgB0XN-NSxuUEx41WNycxZu_O53yXMuOudsEyQBxT66Y8h4JPA5mTNxYgp4VvU8nGM6ZO5lVegFyjhyLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtyDV8YgG0UvEB1DRzcNVjYS9CyGV8bDV0Hy5w1CEIMcKiVPdB~Th8OO52KhkFkmJ2bEukVzJ4-nM4bxu0Evo6kCFwORymKPIDlT6DORx0U9RsxWNxM8t5UhEDmWI8M8l4VO1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IxqhVeQBmzJxOgx3I9Q6l2FtOgd5UyUByTMDN8pzIyI6kWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiVSFBxS1vZRViUiN0yXM4bxu0Evo6kCFwYuhzIyU8mjhtN8h0JPYGnDA9YgujVehuxWQ8OOtwIO1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IxqjI9UFxmQ8YuulUvRslDJtNxtwUEI7lDU7Mxh2J9E8kWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiVSNwyWEFYuemVPBtmGBxNu41VeQDlWJvYxl4ISE8mzg3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOJvx2t1LgRh_SNzkmN5dRZtXd5u-2yuOudsEyRvmTEGN88wVeBvxzNwZxehKSNtxjByMul4KeNulDRwLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtyGR6Yhi0UiB5kmJ5bch6IdwtyGR9dR9uUiR~-21GbNQt_TNBli1vdhm0XSV10C1vbDQiKvE1hmNxcEqpYyFB~W54eRKtHiR81DE4dD9kVEVBkmJDcEqoVhx5kmJ5bch6IdwtyGR9dR9uUiR~-21GbNVzZFB~-mI4agYiKvE1hmNxcEqpYyFB~W54eRKu_Elvy2RCLxm1ZFRzyWt6LxmvYdIHlSsuZRx0JhFGmX7FNuakad5u-G5DZRyyYE5Bkm1xdNh6IdwtyGVxYd41IPBumGQ6NO01U9lxnTI6Ygx0JvEGmmE9NRxtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCFwahmwYSFGkn75dDuyZyVD~WRFc7VjYE0tnjA2Ixqv_SN4-SzweRLnHyZ7-21CYhm0XhM3-GhEZch6IdwtyH63cE9uU85v-3N5bg8uUE92hjk7LNikZS03yGR3ZRu4Hy5w1CEIMcKiVTVC2XN5chmzIEdCmC1vbRZ1VSZ7-21CLxVl_OIHlSsuZS5sHhNv-i1CcyulVylBx258cNVjYE0tnjA2Ixq4YO1C0y1tdSquHzRDhjk7LNikaSw3xXNCbtV0_uIHlSsuZS5sV81s0H64chuhYzRC-WzxdSipU85u-2yuOudsEyRF-GZ3cE9uU8561WB4dSutYhVB0mhvLxmvYdIHlSsuZcVjVS5E~WNzZhpuUE92hjk7LNilIeVvyDFwYdd4VPUBlzc7Ydh0JPEClzduMdt3VPBumyztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEyU8ljIDOO_zUeZtyjNyMxmhIeFtxTJxMxx4JyUFyTdvLgelIPJumjJvOdd2VO5uyG04ZxZy_SV7kmJ5bch6IdwtyTc7MxlyKPE5lTFuNRl1VSE6mWBvNut1KPMCyTE9MdptUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCFxOOemVvFwyDJuNO_0Iec7nGUFOd_1IEUGnDNwOgh4Kd1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IxuiUil~-WZ4YDZtEvo6kCFxY8umJeJsxjg8Ngd0JeI8xmAFM8x2Uvc8mGQ9Yul5Uu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IxulUyEDl2EGNxujUeQDlj7tMuh4Vvc5xzEHYDl1JeUBkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiVhV7yWBwZhhuUE92hjk7LNilVyFtmTgFZuikISYByGRxYdqjI9I5l2ICZOalVyRumSztZd_yU9Y8xzg7NxpuUER3kmV5cyqlZu5u-2yuOudsEyV2xmB9cE8uVylx1Hh5bxtuUE92hjk7LNilYFYB13_-eOmsYyV~2moDex5uUd15xWIEMdptJEQCxTEEMOp5HhN1~WR4dRVz_vQ20y1taDetUhlzyC14ZhpiKvE1hmR5duq3_ElFl3hzYyu6X9VHxnh7LhaxUFhymCyFORh2U9BtlDQ3YDLpVh5B-nJENNRzHyF0xWztag5kHy5w1CEIMcKiVh9DmH_Fby9kVvdHyXl1NhDmXTE20D_DeS1wHhU6yD69Ygx5KO1u-GhxbyquZFYBkXI4YgHhYhF~~GM4bxu0Evo6kCFxdxuu_TM203JvLulzUhN7-3J9LxmvYdIHlSsuZhylYzR8kmB6acViYE921HFtagUuUE92hjk7LNil_yV31HI4Yhq0Vh5B~XVxbgZiXhxwkmJ5bch6IdwtyXVxbyqzHyJ41W1vZh4uYyVBhjk7LNil_yV31HI4YDqu_Elvy2RCLxmvYdIHlSsuZh5jXSF3y2Q3bge0UEg3-WRwagewYSVFkmJ5bch6Idwtyj6EYd9hVyFtlWNuNRl4ISI7nTM9Zxd3VyFxxTgHNghtUhU5lmIEMDl5IeZvkmJwbtVmYFJByXE4YDZtEvo6kCFyMgl4JhEDlGA8Nul0KhYGxWQFMO9jIyU5mjI9OOyhIu1syT68Y8xzU9k6mmM4YDquHyZ40nNxctVjYE0tnjA2IxxzVvIDnWRuNuuhU9RxnDVtY80wVeFtmGUHNxejIyQGkWBxMOijJvNunTAEZNVjVS43ym58dRuyHyN4-SEIMcKiVvdvxzIHZRumKSECmDdyZd9iVPFwlmM6NOyhVPkGxjg3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOJxnGIFZdymVPZvnWUCOdt4Uvc8lzIGNghwJ9MDxjQDZtRhVeA7xzU9Y88xJyQ3x2N4LxyvZzRw0i1vbDQiKvE1hmVuLgmhZSk3xW1tbS90XhN8knF2YDquHyN4-SEIMcKiVyZwyT7vMdt0VyE6mD69Od9lIEM7mDIHYxt5JyJumzI3YgtwIyMDl2IHMdykHyNv-i1ybEi0ViI3x253IuCxHOJx~WVCegZuVd5u-2yuOudsEyZ~1Cz6cxukXhNB-3E4bxu0Evo6kCFybRukVEU21XJtLxmyVhFB~XVxYDquHyN4-SEIMcKiVzRumDR3ch4yJSFtx3l8YD13XTE20H72cDe2HekByGAGZgl4Ud1u-GhxbyquZFYBkXI4YgHhYhF~~GM4bxu0Evo6kCFydRl0Jh162DJGcyl2azJuyzR2YcRwVyxxy3I3Ndd4VvRsnT6DLgmsXhV31G19duptZ85s~2B3Yg9oVO53yXMuOudsEyZBxzMDbhe4IFh702zIcxmnIy9skX66ZE9t_81vmjE9ZRx0JSI2x2t-ZgV0YzNDmCz9LxerUh1s~WdwLxVl_OIHlSsuZyqjJPV20Xdzdhi1Yip7x2_CYhdtZPF62mh2LdeiKSQDyj6FOcRjYSlw-nN4cEx0HiM3xWptbgepXSQ3-mRCIuCxHOJx1GIEdy55aPJE0GR7eyuxJzB8xSz6Nu9pXvU2yD6DOgh0JeUBkWJ2aguu_S581jM3c7VhXEF2xWh~ZNVuViQtnjA2Ixy0U9ZD2HhGeu1mXy1H1XAEdxmhHiBH2DEGNcQwJ9UGljRwMxdtUEx~yW1Cbym2JO18kmB1YgRhXhhvkm1xdNh6IdwtynNyNRu6aig8-21uahDoYh9w-mA3cSayaPd6kWA6MO82IvJsmCzvbR9lYzR303UCLhluUhts-WB-aRpuYyVBhjk7LNim_SYByXlHeRxzaTBC2md3cOmiUd15lW54adltIEQGl2MDNdqhHhN1~WR4dRVz_vQ20y1taDetUhlzyC14ZhpiKvE1hmVCZuqm_FFF~DJCbge6YzNx-n7tLh_wIy5x1CyEMRx2VPRwmGQ3YDLpVh5B-nJENNRzHyF0xWztag5kHy5w1CEIMcKiVzRx0WNGeh56JEZ~lnlCdx9zazE20GQ7dhakHhRuxmMGMDl1Id1u-GhxbyquZFYBkXI4YgHhYhF~~GM4bxu0Evo6kCFydR1jJzY8~Wzya8itazRD~TJDccRwZTZCxTA3MO5jIvBxljVuLgmsXhV31G19duptZ85s~2B3Yg9oVO53yXMuOudsEyZBy2IEdy94avdxyGBIdSypay1skX7tcRizZu1uxT_vOdekVyQ2x2t-ZgV0YzNDmCz9LxerUh1s~WdwLxVl_OIHlSsuZyqvXiBw~XdzdhizYipGmH_1YhdtZTd~-G15LddzJ9JtlDFuNcRjYSlw-nN4cEx0HiM3xWptbgepXSQ3-mRCIuCxHOJx1G5-cRupaTkBl3B1ey80_El-xSz6MDd5IvQ2yGRyZO82VhQDkWJ2aguu_S581jM3c7VhXEF2xWh~ZNVuViQtnjA2Ixy0YEp8y2hGMy1wVydH2WFtchyxHiBt0GZEM7QxKeBslTUHOO_tUEx~yW1Cbym2JO18kmB1YgRhXhhvkm1xdNh6IdwtyzF9Yyh0aihHm2VwYhDrUEMC2GA3cSq2YSp3kTZHYuulISNxlizvbR9lYzR303UCLhluUhts-WB-aRpuYyVBhjk7LNinIzNt0jNHeSC3VyRs2mpvZRH2Ud15-HR1OOttJERtyTRuM89kHhN1~WR4dRVz_vQ20y1taDetUhlzyC14ZhpiKvE1hmZ8dSql_iFFl3hvah16VFB4~jJtLh_yIyV~yCyHZux0KPkClzM3YDLpVh5B-nJENNRzHyF0xWztag5kHy5w1CEIMcKiV9Nv-WF5Yh5oahR0x3lGZxHyaTE20DNHdD1wHhFwyTNyN8x2J81u-GhxbyquZFYBkXI4YgHhYhF~~GM4bxu0Evo6kCFzMDqtUy9x2WNyNEyvazhx~371ccRw_Shu0mo3OOhyUeM6mjE9LgmsXhV31G19duptZ85s~2B3Yg9oVO53yXMuOudsEydw-y16cx92UhNG-WB4Yg1lZu5~-yEIMcKiVEV4-G5vYhqpYE43-21xdSi1ZFQ3x253IuCxHOJyyXN9dRuuUEl1kmJ5bch6Idwty2_6aSpuUE92hjk7LNinYE9y-GRtcR9zHyN4-SEIMcKiVFJ30XdEYh4zaTJ8-Xl6a8mn_TE20GRzMd1hHeEGxmRvORl5Vd1u-GhxbyquZFYBkXI4YgHhYhF~~GM4bxu0Evo6kCFwZgesZSxGkmJ5bch6IOwt~XJCYhqpU85w02d5cRmvYiA3x253IuCwHOJ~1iz3MxmxV9lu~TV5Zy54VEl-knI9LxetUip4-mBFc7VjYE0tnj7LLNi3XSlByUpxehliKztKkCFubRejXCtw2XIuOyGi_El3yG5FIuD7EyRwxWt6bS9EUiRshjlJfcKiYhVv~WBYbDZrMhx~~2QuOyH9HOJqw3FEeyyy_TBHhjlJfcKiTD971nl8agRuYiktnnpLLNifTFJD2mh8YxVoVOIH23y2Iyyp_TJC1mhtbth6aF01hmJ5dhavYzR~-WRrZRe0UdIH23y2IvqlUhxR~W1wZhhiKztKkCFyZSDfYENBxX7-ZQZjUuIH23y2IxezVSZy-zA9MdhiKztKkCFNcD9tYFZd1GB3cNh6aF01hkNxYgLQYTlU-mlxYEqNVhR~xSEIeEQsEx9qym58YDufXh5-yWJCXDVl_D9C~V56cxumXigtnnpLLNizaiJ3y15-bxDlUFRsxmtxc7h6aF01hl7dMwZpYypwx3N5cth6aF01hmzxYDezXR9u-21yag0iKztKkCFZZgmhZEhcyX72YgmlEvpI3SsuagVqVhNBvGz2QgqzEvpI3SsuagVqVhNBrG53ZfahVEVMyHIuOyH9HOJ5-37rYDLpUEtwyF48MdhxI8IH23y2Ix1l_Sp8wzE7Mu44KOIH23y2Iw1BOwFYw1R_SfeVNg9UqCEIeER9bi0k"
+        },
+        {
+          "name": "feh--9fd29358",
+          "value": "0001786990629222cce16c45e622d9ceae4b626c9353ecec"
+        },
+        {
+          "name": "getSessionStorage",
+          "value": "1786991079034"
+        },
+        {
+          "name": "currentPDPVariant",
+          "value": "{\"sku\":\"\",\"images\":[],\"prices\":[{}],\"discounts\":[],\"isOnStock\":false,\"availableQuantity\":0,\"availability\":{\"id\":\"\"}}"
+        },
+        {
+          "name": "GlobalE_CT_Data",
+          "value": "{\"CUID\":{\"id\":\"616355137.591890721.1901\",\"expirationDate\":\"Mon, 17 Aug 2026 18:47:19 GMT\"},\"CHKCUID\":null,\"GA4SID\":828584019,\"GA4TS\":1786990639270,\"Domain\":\".alpha.cofe.dxl.com\"}"
+        },
+        {
+          "name": "u_sclid",
+          "value": "4hrtBfdjBK1tboY8p4BtnPcuqZ0Ukl46hTtEctsmuEw-O5c332cK7r1AAAr4VQLZ"
+        },
+        {
+          "name": "_uetvid_exp",
+          "value": "Sat, 11 Sep 2027 18:27:46 GMT"
+        },
+        {
+          "name": "feh--330df5",
+          "value": "0001786991264190d6821a20406341bcdcbfb22d29d181ce"
+        },
+        {
+          "name": "wandz",
+          "value": "{\"sessionData\":{\"pvst\":1786991080631,\"pv\":4,\"pv_counter\":4,\"href\":\"https://alpha.cofe.dxl.com/\",\"prevURL\":\"https://alpha.cofe.dxl.com/\",\"ud\":299096,\"dsn\":1,\"isFirstCoreStackCall\":true,\"performanceTimingEnable\":1,\"useRawTracker\":0,\"user_id\":\"e454b6d1c4b2059be2ec6ebc0d2125a9\",\"session_id\":\"2f5792a4619e604cf3c7b7a5ec3f7f4f\",\"session_counter\":1,\"ust\":1786990639664,\"sst\":1786990639664,\"tos\":142,\"pvst_obj\":{\"1786990639664\":1,\"1786990850648\":1,\"1786990938760\":1,\"1786991080631\":1},\"stack_obj\":{},\"lpvst\":1786990938760,\"lsst\":1786990639664,\"lset\":1786990639664,\"abTestsConf\":{},\"adaptiveCarouselConf\":{},\"adaptiveSearchConf\":{\"id\":\"a0c51b8e-0a32-493c-b61b-d4e420be5623\",\"isTest\":false,\"isAbTest\":true,\"testGroupSize\":100,\"storedToUser\":true},\"affinityTimestamps\":{\"affinityToBrands\":{},\"affinityToCategories\":{}},\"customAffinityTimestamps\":{},\"traffic_source\":\"direct\"},\"wdlObject\":{\"attributes\":{\"wandzAttributes\":{\"device\":{\"environment\":{\"battery\":{\"batteryIsCharging\":1,\"batteryPercentageValue\":6,\"batteryPercentageScore\":1},\"resolution\":{\"pxHeight\":720,\"pxWidth\":1280,\"deviceLayout\":\"landscape\",\"pageZoom\":1,\"innerWidth\":1280,\"innerHeight\":720,\"outerWidth\":1282,\"outerHeight\":800,\"devicePixelRatio\":1},\"cpuStrengthScore\":3,\"cpuStrengthValue\":36429,\"networkStrengthScore\":3,\"networkStrengthValue\":111},\"general\":{\"browser\":\"chrome\",\"browserVersion\":\"145.0.7632.6\",\"deviceType\":\"pc\",\"os\":\"macos\"},\"settings\":{\"areNotificationsApproved\":0,\"doNotTrackEnabled\":0,\"hasCameraApproved\":0,\"hasLocationApproved\":1,\"isDarkMode\":0,\"isIncognitoSession\":1,\"isProxy\":0,\"browsingWithShoppingAffiliate\":0,\"isForceDarkMode\":0,\"hasForceDarkModeExtensions\":0},\"installs\":{\"shopping\":{\"installed\":{\"isHoney\":0,\"isRakuten\":0,\"isCoupert\":0,\"isCapitalone\":0,\"isKlarna\":0,\"isRetailMeNot\":0,\"isKarma\":0,\"isAmericanAirlines\":0,\"isBravoBestPrice\":0,\"isPouch\":0,\"isSimplyCodes\":0,\"isDontPayFull\":0},\"interacted\":{},\"popped\":{},\"numOfInstalled\":0},\"accessibilityExtensions\":[],\"cryptoExtensions\":[],\"hasAdBlocker\":0,\"isPinterestInstalled\":0,\"isBitmojiInstalled\":0,\"isTubeBlockInstalled\":0,\"isZoomInstalled\":0,\"isSkypeInstalled\":0,\"isWebexInstalled\":0,\"isWeherebyInstalled\":0,\"isGoogleMeetAttendanceListInstalled\":0,\"isTiktokPixelHelperInstalled\":0,\"isInssistInstalled\":0},\"languages\":{\"prefLanguage\":\"en\",\"englishBrowserLanguage\":1,\"spanishBrowserLanguage\":0,\"russianBrowserLanguage\":0,\"frenchBrowserLanguage\":0,\"ukrainianBrowserLanguage\":0,\"polishBrowserLanguage\":0,\"italianBrowserLanguage\":0,\"germanBrowserLanguage\":0,\"chineseBrowserLanguage\":0,\"dutchBrowserLanguage\":0,\"numberOfBrowserLanguages\":1,\"hebrewBrowserLanguage\":0,\"arabicBrowserLanguage\":0}},\"journey\":{\"accessibility\":{\"pageAccessibilityScore\":4,\"pageAccessibilityValue\":41},\"flow\":{\"areMultipleTabsOpen\":0,\"channel\":\"direct\",\"inCart\":0,\"inCheckout\":0,\"inConfirmationPage\":0,\"isTabInFocus\":1,\"numOfOpenTabsScore\":2,\"numOfOpenTabsValue\":1,\"pageCount\":4,\"pagesUntilReachedSite\":1,\"pageType\":\"Homepage\",\"referrer\":\"\",\"timeOffTabScore\":1,\"timeOffTabValue\":0,\"timeOnPageScore\":3,\"timeOnPageValue\":46,\"timeOnSiteScore\":3,\"timeOnSiteValue\":142,\"utm_campaign\":\"Unknown\",\"utm_source\":\"Unknown\",\"inAppBrowsing\":0,\"pageTitle\":\"DXL - Shop for Big & Tall Men's Clothing & Accessories\",\"numOfProductViews\":0,\"inAppBrowsingPackage\":\"\",\"utmContent\":\"Unknown\",\"numOfCategoryPageViews\":0},\"interactions\":{\"clicksInSessionScore\":1,\"clicksInSessionValue\":0,\"scrollBelowTheFold\":0,\"scrollSpeed\":0},\"languages\":{\"isPageAutoTranslated\":0},\"memory\":{\"jsHeapSizeLimit\":4294967296,\"numOfCookieKeys\":75,\"numOfDomProperties\":9,\"numOfLocalStorageKeys\":76,\"numOfSessionStorageKeys\":21,\"numOfWindowObjectKeys\":485},\"performance\":{\"pageLoadValue\":6654,\"timeToInteractionValue\":885,\"redirectCount\":0,\"navigationType\":0,\"dnsResolutionTime\":1316,\"TimeToFirstByte\":1,\"serverResponseTime\":344,\"DOMProcessingTime\":857,\"pageLoadTime\":6677,\"contentLoadTime\":6654,\"connectionTime\":66,\"pageDownloadTime\":33,\"unloadEventTime\":0,\"domContentLoadedTime\":0,\"redirectionTime\":0,\"pageLoadScore\":5,\"timeToInteractionScore\":4},\"privacy\":{\"vpnProbability\":1,\"isVpn\":0},\"time\":{\"dayOfSession\":\"Monday\",\"isDay\":1,\"timeZone\":\"America/New_York\",\"hourInDay\":14}},\"visitor\":{\"general\":{\"isBot\":0,\"isBotEnhanced\":0},\"history\":{\"numOfSessions\":1,\"timeSinceLastVisitValue\":0.1,\"timeSinceLastVisitScore\":1},\"locale\":\"en-US\"}},\"customAttributes\":{}},\"aiFeatures\":{\"wandzAiFeatures\":{\"device\":{\"environment\":{\"battery\":{\"batteryIsCharging\":1,\"batteryPercentageValue\":6,\"batteryPercentageScore\":1},\"resolution\":{\"pxHeight\":720,\"pxWidth\":1280,\"deviceLayout\":\"landscape\",\"pageZoom\":1,\"innerWidth\":1280,\"innerHeight\":720,\"outerWidth\":1282,\"outerHeight\":800,\"devicePixelRatio\":1},\"cpuStrengthScore\":3,\"cpuStrengthValue\":36429,\"networkStrengthScore\":3,\"networkStrengthValue\":111},\"general\":{\"browser\":\"chrome\",\"browserVersion\":\"145.0.7632.6\",\"deviceType\":\"pc\",\"os\":\"macos\"},\"settings\":{\"areNotificationsApproved\":0,\"doNotTrackEnabled\":0,\"hasCameraApproved\":0,\"hasLocationApproved\":1,\"isDarkMode\":0,\"isIncognitoSession\":1,\"isProxy\":0,\"browsingWithShoppingAffiliate\":0,\"isForceDarkMode\":0,\"hasForceDarkModeExtensions\":0},\"installs\":{\"shopping\":{\"installed\":{\"isHoney\":0,\"isRakuten\":0,\"isCoupert\":0,\"isCapitalone\":0,\"isKlarna\":0,\"isRetailMeNot\":0,\"isKarma\":0,\"isAmericanAirlines\":0,\"isBravoBestPrice\":0,\"isPouch\":0,\"isSimplyCodes\":0,\"isDontPayFull\":0},\"interacted\":{},\"popped\":{},\"numOfInstalled\":0},\"accessibilityExtensions\":[],\"cryptoExtensions\":[],\"hasAdBlocker\":0,\"isPinterestInstalled\":0,\"isBitmojiInstalled\":0,\"isTubeBlockInstalled\":0,\"isZoomInstalled\":0,\"isSkypeInstalled\":0,\"isWebexInstalled\":0,\"isWeherebyInstalled\":0,\"isGoogleMeetAttendanceListInstalled\":0,\"isTiktokPixelHelperInstalled\":0,\"isInssistInstalled\":0},\"languages\":{\"prefLanguage\":\"en\",\"englishBrowserLanguage\":1,\"spanishBrowserLanguage\":0,\"russianBrowserLanguage\":0,\"frenchBrowserLanguage\":0,\"ukrainianBrowserLanguage\":0,\"polishBrowserLanguage\":0,\"italianBrowserLanguage\":0,\"germanBrowserLanguage\":0,\"chineseBrowserLanguage\":0,\"dutchBrowserLanguage\":0,\"numberOfBrowserLanguages\":1,\"hebrewBrowserLanguage\":0,\"arabicBrowserLanguage\":0}},\"journey\":{\"accessibility\":{\"pageAccessibilityScore\":4,\"pageAccessibilityValue\":41},\"flow\":{\"areMultipleTabsOpen\":0,\"channel\":\"direct\",\"inCart\":0,\"inCheckout\":0,\"inConfirmationPage\":0,\"isTabInFocus\":1,\"numOfOpenTabsScore\":2,\"numOfOpenTabsValue\":1,\"pageCount\":4,\"pagesUntilReachedSite\":1,\"pageType\":\"Homepage\",\"referrer\":\"\",\"timeOffTabScore\":1,\"timeOffTabValue\":0,\"timeOnPageScore\":3,\"timeOnPageValue\":46,\"timeOnSiteScore\":3,\"timeOnSiteValue\":142,\"utm_campaign\":\"Unknown\",\"utm_source\":\"Unknown\",\"inAppBrowsing\":0,\"pageTitle\":\"DXL - Shop for Big & Tall Men's Clothing & Accessories\",\"numOfProductViews\":0,\"inAppBrowsingPackage\":\"\",\"utmContent\":\"Unknown\",\"numOfCategoryPageViews\":0},\"interactions\":{\"clicksInSessionScore\":1,\"clicksInSessionValue\":0,\"scrollBelowTheFold\":0,\"scrollSpeed\":0},\"languages\":{\"isPageAutoTranslated\":0},\"memory\":{\"jsHeapSizeLimit\":4294967296,\"numOfCookieKeys\":75,\"numOfDomProperties\":9,\"numOfLocalStorageKeys\":76,\"numOfSessionStorageKeys\":21,\"numOfWindowObjectKeys\":485},\"performance\":{\"pageLoadValue\":6654,\"timeToInteractionValue\":885,\"redirectCount\":0,\"navigationType\":0,\"dnsResolutionTime\":1316,\"TimeToFirstByte\":1,\"serverResponseTime\":344,\"DOMProcessingTime\":857,\"pageLoadTime\":6677,\"contentLoadTime\":6654,\"connectionTime\":66,\"pageDownloadTime\":33,\"unloadEventTime\":0,\"domContentLoadedTime\":0,\"redirectionTime\":0,\"pageLoadScore\":5,\"timeToInteractionScore\":4},\"privacy\":{\"vpnProbability\":1,\"isVpn\":0},\"time\":{\"dayOfSession\":\"Monday\",\"isDay\":1,\"timeZone\":\"America/New_York\",\"hourInDay\":14}},\"visitor\":{\"general\":{\"isBot\":0,\"isBotEnhanced\":0},\"history\":{\"numOfSessions\":1,\"timeSinceLastVisitValue\":0.1,\"timeSinceLastVisitScore\":1},\"locale\":\"en-US\"}},\"customAiFeatures\":{}},\"audiences\":{\"customAudiences\":{\"has_ad_blocker\":0},\"wandzAudiences\":{\"germanSpeakers\":0,\"daytimeVisitors\":1,\"firstTimeVisitors\":1,\"isCustomer\":0,\"nighttimeVisitors\":0,\"engagedVisitors\":0,\"returningVisitors\":0,\"europeanVisitors\":0,\"isTechSavvy\":1,\"emailMarketingVisitors\":0,\"botTraffic\":0,\"activeInWeekends\":0,\"multiLanguageVisitors\":0,\"usVisitors\":1,\"socialVisitors\":0,\"frenchSpeakers\":0,\"englishSpeakers\":1}},\"predictions\":{},\"events\":{\"purchase\":0,\"accepted_cookies\":0,\"visitor_login\":0,\"clicked_on_coupon\":0,\"read_review\":0,\"click_on_payment_method\":0,\"is_sorted_by_date\":0,\"visited_new_category\":0,\"visited_lacoste\":0,\"visited_product_or_category_pages\":0,\"clicked_on_carousel_item\":0,\"clicked_on_add_to_bag\":0,\"click_on_checkout\":0,\"view_bag\":0,\"click_on_product_page_carousel__product_1\":0,\"click_on_product_page_carousel__product_2\":0,\"click_on_product_page_carousel__product_3\":0,\"click_on_product_page_carousel__product_4\":0,\"click_on_product_page_carousel__product_5\":0,\"click_on_product_page_carousel__product_6\":0,\"click_on_product_page_carousel__product_7\":0,\"click_on_product_page_carousel__product_8\":0,\"proceed_to_checkout\":0,\"adaptive_search__common_was_clicked\":0,\"clicked_on_adaptive_refinement_button\":0,\"clicked_on_cart\":0,\"anonymous_visitor\":1},\"affinity\":{\"affinityInteractionsWithBlue\":0,\"affinityInteractionsWithRed\":0,\"affinityInteractionsWithGreen\":0,\"affinityInteractionsWithOrange\":0,\"affinityInteractionsWithYellow\":0,\"affinityInteractionsWithPurple\":0,\"affinityInteractionsWithPink\":0,\"affinityInteractionsWithBlack\":0,\"affinityInteractionsWithWhite\":0,\"affinityInteractionsWithGrey\":0,\"affinityInteractionsWithBrown\":0,\"affinityInteractionsWithGold\":0,\"affinityInteractionsWithSilver\":0,\"HasAffinityToColor\":0,\"HasAffinityToCategory\":0,\"HasAffinityToBrand\":0,\"customAffinities\":{}},\"activations\":{\"search\":{\"name\":\"Adaptive Search - Common - 100% Test\",\"group\":\"not_set\",\"groupSize\":100},\"interactions\":null,\"custom\":null,\"allInteractions\":null,\"carousel\":null},\"interactions\":null,\"allInteractions\":null},\"featureLastUpdated\":{\"805165\":\"1786991080631|1\",\"HasAffinityToBrand\":\"1786990850648|1\",\"HasAffinityToCategory\":\"1786990850648|1\",\"os\":\"1786990639664\",\"browser\":\"1786990639664\",\"browserVersion\":\"1786990639664\",\"deviceType\":\"1786990639664\",\"channel\":\"1786990850648\",\"clicksInSessionValue\":\"1786990850648|1\",\"clicksInSessionScore\":\"1786990850648|1\",\"cpuStrengthValue\":\"1786991080631\",\"cpuStrengthScore\":\"1786990850648\",\"isDay\":\"1786990639664\",\"hourInDay\":\"1786990639664\",\"dayOfSession\":\"1786990639664\",\"batteryIsCharging\":\"1786990850648\",\"batteryPercentageValue\":\"1786991080631\",\"batteryPercentageScore\":\"1786990850648\",\"isDarkMode\":\"1786990850648\",\"doNotTrackEnabled\":\"1786990850648\",\"isPageAutoTranslated\":\"1786990850648\",\"isBot\":\"1786991080631\",\"isBotEnhanced\":\"1786991080631\",\"isTabInFocus\":\"1786990850648|1\",\"timeOffTabValue\":\"1786990850648|1\",\"timeOffTabScore\":\"1786990850648|1\",\"hasLocationApproved\":\"1786990850648\",\"areNotificationsApproved\":\"1786990850648\",\"hasCameraApproved\":\"1786990850648\",\"numOfSessions\":\"1786990639664\",\"pageAccessibilityValue\":\"1786991080631\",\"pageAccessibilityScore\":\"1786990850648\",\"pageCount\":\"1786991080631\",\"pageLoadValue\":\"1786991080631\",\"pageLoadScore\":\"1786991080631\",\"timeToInteractionValue\":\"1786991080631\",\"timeToInteractionScore\":\"1786990938760\",\"connectionTime\":\"1786991080631\",\"contentLoadTime\":\"1786991080631\",\"dnsResolutionTime\":\"1786991080631\",\"domContentLoadedTime\":\"1786991080631\",\"DOMProcessingTime\":\"1786991080631\",\"jsHeapSizeLimit\":\"1786991080631\",\"navigationType\":\"1786990850648\",\"pageDownloadTime\":\"1786991080631\",\"pageLoadTime\":\"1786991080631\",\"redirectionTime\":\"1786990850648\",\"redirectCount\":\"1786990850648\",\"serverResponseTime\":\"1786991080631\",\"TimeToFirstByte\":\"1786991080631\",\"unloadEventTime\":\"1786990850648\",\"pagesUntilReachedSite\":\"1786990639664\",\"prefLanguage\":\"1786990850648\",\"numberOfBrowserLanguages\":\"1786990639664\",\"chineseBrowserLanguage\":\"1786990639664\",\"dutchBrowserLanguage\":\"1786990639664\",\"englishBrowserLanguage\":\"1786990639664\",\"frenchBrowserLanguage\":\"1786990639664\",\"germanBrowserLanguage\":\"1786990639664\",\"italianBrowserLanguage\":\"1786990639664\",\"polishBrowserLanguage\":\"1786990639664\",\"russianBrowserLanguage\":\"1786990639664\",\"spanishBrowserLanguage\":\"1786990639664\",\"ukrainianBrowserLanguage\":\"1786990639664\",\"hebrewBrowserLanguage\":\"1786990639664\",\"arabicBrowserLanguage\":\"1786990639664\",\"pxWidth\":\"1786990639664\",\"pxHeight\":\"1786990639664\",\"deviceLayout\":\"1786990850648\",\"referrer\":\"1786990850648\",\"scrollBelowTheFold\":\"1786990850648|1\",\"isHoney\":\"1786990639664\",\"numOfInstalled\":\"1786990639664\",\"browsingWithShoppingAffiliate\":\"1786990639664\",\"isIncognitoSession\":\"1786990639664\",\"isRakuten\":\"1786990639664\",\"isCapitalone\":\"1786990639664\",\"isKarma\":\"1786990639664\",\"isKlarna\":\"1786990639664\",\"isCoupert\":\"1786990639664\",\"isRetailMeNot\":\"1786990639664\",\"isAmericanAirlines\":\"1786990639664\",\"isBravoBestPrice\":\"1786990639664\",\"isPouch\":\"1786990639664\",\"scrollSpeed\":\"1786990850648|1\",\"timeOnPageValue\":\"1786991080631|4\",\"timeOnSiteValue\":\"1786991080631|4\",\"timeOnPageScore\":\"1786991080631|4\",\"timeOnSiteScore\":\"1786990850648|4\",\"timeSinceLastVisitValue\":\"1786990639664\",\"timeSinceLastVisitScore\":\"1786990639664\",\"timeZone\":\"1786990639664\",\"locale\":\"1786990639664\",\"utm_source\":\"1786990850648\",\"utm_campaign\":\"1786990850648\",\"utmContent\":\"1786990850648\",\"inAppBrowsing\":\"1786990639664\",\"affinityInteractionsWithRed\":\"1786990850648|1\",\"affinityInteractionsWithGreen\":\"1786990850648|1\",\"affinityInteractionsWithBlue\":\"1786990850648|1\",\"affinityInteractionsWithWhite\":\"1786990850648|1\",\"affinityInteractionsWithBlack\":\"1786990850648|1\",\"affinityInteractionsWithPurple\":\"1786990850648|1\",\"affinityInteractionsWithPink\":\"1786990850648|1\",\"affinityInteractionsWithOrange\":\"1786990850648|1\",\"affinityInteractionsWithYellow\":\"1786990850648|1\",\"affinityInteractionsWithBrown\":\"1786990850648|1\",\"affinityInteractionsWithGrey\":\"1786990850648|1\",\"affinityInteractionsWithGold\":\"1786990850648|1\",\"affinityInteractionsWithSilver\":\"1786990850648|1\",\"HasAffinityToColor\":\"1786990850648|1\",\"numOfCookieKeys\":\"1786991080631|1\",\"numOfDomProperties\":\"1786991080631|3\",\"numOfWindowObjectKeys\":\"1786991080631|4\",\"numOfLocalStorageKeys\":\"1786991080631|1\",\"numOfSessionStorageKeys\":\"1786991080631|2\",\"isSimplyCodes\":\"1786990639664\",\"isDontPayFull\":\"1786990639664\",\"accessibilityExtensions\":\"1786990639664\",\"cryptoExtensions\":\"1786990639664\",\"isInssistInstalled\":\"1786990639664\",\"isTiktokPixelHelperInstalled\":\"1786990639664\",\"isBitmojiInstalled\":\"1786990639664\",\"isPinterestInstalled\":\"1786990639664\",\"isWebexInstalled\":\"1786990639664\",\"isSkypeInstalled\":\"1786990639664\",\"isZoomInstalled\":\"1786990639664\",\"isGoogleMeetAttendanceListInstalled\":\"1786990639664\",\"isWeherebyInstalled\":\"1786990639664\",\"isForceDarkMode\":\"1786990850648\",\"innerWidth\":\"1786990639664\",\"innerHeight\":\"1786990639664\",\"outerWidth\":\"1786990639664\",\"outerHeight\":\"1786990639664\",\"devicePixelRatio\":\"1786990639664\",\"pageZoom\":\"1786990850648|1\",\"isTubeBlockInstalled\":\"1786990639664\",\"pageType\":\"1786991080631\",\"inCart\":\"1786991080631\",\"inCheckout\":\"1786991080631\",\"inConfirmationPage\":\"1786991080631\",\"purchase\":\"1786991080631\",\"numOfProductViews\":\"1786990850648\",\"numOfCategoryPageViews\":\"1786990850648\",\"pageTitle\":\"1786990850648\",\"hasForceDarkModeExtensions\":\"1786990639664\",\"networkStrengthValue\":\"1786991080631\",\"networkStrengthScore\":\"1786990850648\",\"vpnProbability\":\"1786990850648\",\"isVpn\":\"1786990850648\",\"isProxy\":\"1786990639664\",\"inAppBrowsingPackage\":\"1786990639664\",\"hasAdBlocker\":\"1786990639664\",\"numOfOpenTabsValue\":\"1786990850648|1\",\"numOfOpenTabsScore\":\"1786990850648|1\",\"areMultipleTabsOpen\":\"1786990850648|1\"},\"customFeatureLastUpdated\":{}}"
+        },
+        {
+          "name": "QM_S",
+          "value": "{\"configReplayEnabled\":true,\"lastUrl\":\"https://alpha.cofe.dxl.com/\",\"s\":\"bc4a40d564d44c35a426fb6c8a0d9d6d\",\"exp\":1786992918293,\"event:57f23930525b496286ba426a778f00cf\":{\"i\":560,\"v\":\"home\",\"t\":1786990639461},\"event:b060b4939a804e7d95ca3ab6fc81988b\":{\"i\":20,\"v\":\"USD\",\"t\":1786990639461},\"event:bfb842d1b4e740b9bad1457a49de98a3\":{\"i\":538,\"v\":\"false\",\"t\":1786990639461},\"event:fcd88f1c87c2418193f1bb1fe11a02fe\":{\"i\":569,\"v\":\"GA1.1.1168888221.1786990637\",\"t\":1786990639461},\"event:00dc641c4b3a44e48f3f1dca271974f6\":{\"i\":570,\"v\":\",C0002,C0001,C0003,C0004,\",\"t\":1786990639461},\"event:685da1eadab448c5b20afe0f1a277114\":{\"i\":597,\"v\":\"False\",\"t\":1786990639461},\"slr\":false,\"event:58d9a7cd28a640db9fcc9e4fcfcce02c\":{\"i\":-26,\"v\":\"\",\"t\":1786990640078},\"eSync\":true,\"event:1eee7c8a6bee4f239e094db6519f904e\":{\"i\":602,\"v\":\"2\",\"t\":1786990640079,\"h\":\"lTtFCHe1yXY=\"},\"event:2372deaa826c47f5abd00c9d45db30b4\":{\"i\":-63,\"v\":\"https://alpha.cofe.dxl.com/icons/react-icons/truck.svg\",\"t\":1786990848459,\"h\":\"7kL2l/4yWwk=\"},\"event:b7a515406773476d9f5fa7e041a09ec5\":{\"i\":560,\"v\":\"home\",\"t\":1786990848353},\"event:56f0597878174b69a3d41f93fce466a1\":{\"i\":538,\"v\":\"false\",\"t\":1786990848353},\"event:e552b1fd830d4ad4902b9549eed16568\":{\"i\":597,\"v\":\"False\",\"t\":1786990848353},\"event:cd17ce52ad504253a82d1ce14c768b83\":{\"i\":-13,\"v\":\"https://gs.wandzcdn.com/wandz/DXRMIN9JZW-alpha_cofe_dxl_com-config.json\",\"t\":1786990849932},\"event:c1a7c1cb494a49568cf60b94de361e76\":{\"i\":-63,\"v\":\"https://alpha.cofe.dxl.com/icons/react-icons/truck.svg\",\"t\":1786990936465,\"h\":\"7kL2l/4yWwk=\"},\"event:42d9ea3306f1414ab9efe4a8d597c213\":{\"i\":560,\"v\":\"home\",\"t\":1786990936351},\"event:75bfa966c85b4a3aa0bc0072819afdf3\":{\"i\":538,\"v\":\"false\",\"t\":1786990936351},\"event:7eff57cff2d4430baacd0c202327c667\":{\"i\":597,\"v\":\"False\",\"t\":1786990936351},\"event:266a7ab246434089858e10e99ba377f4\":{\"i\":-13,\"v\":\"https://gs.wandzcdn.com/wandz/DXRMIN9JZW-alpha_cofe_dxl_com-config.json\",\"t\":1786990938245},\"event:e42ece80684f4826b1299054241b851f\":{\"i\":-63,\"v\":\"https://alpha.cofe.dxl.com/icons/react-icons/truck.svg\",\"t\":1786991079559,\"h\":\"7kL2l/4yWwk=\"},\"event:18315a5764684cfb9097b602f4712ad9\":{\"i\":560,\"v\":\"home\",\"t\":1786991079444},\"event:d9c227a443fe4230814e2221140d8d48\":{\"i\":538,\"v\":\"false\",\"t\":1786991079444},\"event:4b0c4abee2b94356b8908282399407f6\":{\"i\":597,\"v\":\"False\",\"t\":1786991079444},\"event:a4783102709b4a50b2942ebce23960fc\":{\"i\":-13,\"v\":\"https://gs.wandzcdn.com/wandz/DXRMIN9JZW-alpha_cofe_dxl_com-config.json\",\"t\":1786991080845}}"
+        },
+        {
+          "name": "selectedStoreListData",
+          "value": "[]"
+        },
+        {
+          "name": "areAllAttributesSelected",
+          "value": "false"
+        },
+        {
+          "name": "kampyle_userid",
+          "value": "799e-450a-8979-9d59-6881-601e-1743-7d49"
+        },
+        {
+          "name": "ssr",
+          "value": "1"
+        },
+        {
+          "name": "feh--e3a677a0",
+          "value": "0001786991264160d751713988987e9331980363e24189ce"
+        },
+        {
+          "name": "siteAnalyticsData",
+          "value": "{\"current_user_type\":\"new\",\"original_user_type\":\"new\",\"session_pvc\":1,\"day_pvc\":1,\"session_id\":\"1786991079285\",\"session_source\":\"direct\",\"session_medium\":\"direct\"}"
+        },
+        {
+          "name": "branch_session_first",
+          "value": "{\"browser_fingerprint_id\":\"MTYxNzk2Mjg0NDcwOTUzNjcyNA==\",\"data\":\"{\\\"+clicked_branch_link\\\":false,\\\"+is_first_session\\\":false}\",\"has_app\":false,\"identity_id\":\"1617962854253141910\",\"link\":\"https://dxl.test-app.link?%24identity_id=1617962854253141910\",\"session_id\":\"1617962854257171433\",\"identity\":null}"
+        },
+        {
+          "name": "chakra-ui-color-mode",
+          "value": "light"
+        },
+        {
+          "name": "isInStorePickUp",
+          "value": "false"
+        },
+        {
+          "name": "feh--19c44",
+          "value": "00017869912659500877c396858a88570496fcd4e77bc0a6"
+        },
+        {
+          "name": "GlobalE_Analytics",
+          "value": "{\"merchantId\":\"1901\",\"shopperCountryCode\":\"US\",\"cdn\":\"https://www.bglobale.com/\",\"clientId\":\"e54ebf00-8524-4f6a-b7dd-324d4db7b076\",\"sessionId\":\"f64f5a43-f4f5-41b4-b000-2af8c07939e6\",\"sessionIdExpiry\":1786992873443,\"configurations\":{\"eventSendingStrategy\":0},\"featureToggles\":{\"FT_3DA\":true,\"FT_3DA_UTM_SOURCE_LIST\":[\"borderfree\",\"borderfree.com\"],\"FT_3DA_STORAGE_LIFETIME\":4320,\"FT_BF_GOOGLE_ADS\":false,\"FT_BF_GOOGLE_ADS_LIFETIME\":30,\"isOperatedByGlobalE\":false,\"isPiiDataEnabled\":true,\"isEventSendingDelayed\":false},\"lockBrowsingStartOnSessionId\":\"f64f5a43-f4f5-41b4-b000-2af8c07939e6\",\"dataUpdatedAt\":1786991073443,\"environment\":\"STGMNS\"}"
+        },
+        {
+          "name": "tealium_timing",
+          "value": "{\"domain\":\"alpha.cofe.dxl.com\",\"pathname\":\"/\",\"query_string\":\"\",\"timestamp\":1786991266973,\"dns\":0,\"connect\":0,\"response\":10,\"dom_loading_to_interactive\":112,\"dom_interactive_to_complete\":0,\"load\":0,\"time_to_first_byte\":572,\"front_end\":0,\"fetch_to_response\":572,\"fetch_to_complete\":0,\"fetch_to_interactive\":691}"
+        },
+        {
+          "name": "selectedStoreData",
+          "value": "{\"id\":\"\",\"storeId\":\"\",\"version\":0,\"versionModifiedAt\":\"2024-02-21T15:01:19.557Z\",\"createdAt\":\"2024-02-21T15:01:19.557Z\",\"lastModifiedAt\":\"2024-02-21T15:01:19.557Z\",\"lastModifiedBy\":{\"clientId\":\"\",\"isPlatformClient\":false},\"createdBy\":{\"clientId\":\"\",\"isPlatformClient\":false},\"storeNumber\":\"\",\"key\":\"\",\"roles\":[\"ProductDistribution\"],\"name\":{\"en\":\"\"},\"custom\":{\"type\":{\"typeId\":\"type\",\"id\":\"\"},\"fields\":{\"availableForInstorePickup\":false,\"subtitle\":\"\",\"shipToStore\":false,\"lastname\":\"\",\"hours\":\"\",\"storeHours\":[\"monday||10:00||19:00\",\"tuesday||10:00||19:00\",\"wednesday||10:00||19:00\",\"thursday||10:00||19:00\",\"friday||10:00||19:00\",\"saturday||10:00||19:00\",\"sunday||12:00||18:00\"],\"title\":\"\",\"active\":false,\"additionalHoursText\":\"\",\"firstname\":\"DXL\"}},\"address\":{\"streetName\":\"\",\"postalCode\":\"\",\"city\":\"\",\"state\":\"\",\"country\":\"\",\"phone\":\"\"},\"geoLocation\":{\"coordinates\":[],\"type\":\"Point\"},\"availableQuantity\":0,\"inventoryMessage\":\"NOT_AVAILABLE\"}"
+        },
+        {
+          "name": "feh--1aea3",
+          "value": "0001786990629276a50817ee12e98219409e9bf1dab5b3bc"
+        },
+        {
+          "name": "QEventChannel",
+          "value": "{\"id\":-9997,\"value\":\"web\",\"timeStamp\":1786991080084}"
+        },
+        {
+          "name": "bluecoreSiteT",
+          "value": "0"
+        },
+        {
+          "name": "kampyleUserSession",
+          "value": "1786991078555"
+        },
+        {
+          "name": "feh--6bc5339",
+          "value": "00017869912667581141db73ec4e5c39d9c0e6ebc0b407ca"
+        },
+        {
+          "name": "nmgCommonDictionary",
+          "value": "{\"version\":\"3\",\"affinities\":{\"sport\":[\"Nike\",\"Adidas\",\"Puma\",\"Under Armour\",\"Reebok\",\"New Balance\",\"ASICS\",\"Converse\",\"Fila\",\"Skechers\",\"Vans\",\"Umbro\",\"Li-Ning\",\"K-Swiss\",\"Kappa\",\"Diadora\",\"Lacoste\",\"Le Coq Sportif\",\"Mizuno\",\"Wilson\",\"Everlast\",\"Mitre\",\"Uhlsport\",\"Joma\",\"Lotto\",\"Erima\",\"Spalding\",\"Russell Athletic\",\"Hummel\",\"Joma\",\"Kelme\",\"Jako\",\"Head\",\"Yonex\",\"Babolat\",\"Prince\",\"Asics\",\"Molten\",\"Mikasa\",\"Select\",\"Uhlsport\",\"Stiga\",\"Butterfly\",\"Donic\",\"Tibhar\",\"Andro\",\"Killerspin\",\"DHS\",\"Nittaku\",\"Cornilleau\",\"Sanwei\",\"STIGA\",\"Columbia\",\"The North Face\",\"Patagonia\",\"Columbia Sportswear\",\"Arc'teryx\",\"Mountain Hardwear\",\"Merrell\",\"Salomon\",\"Icebreaker\",\"Black Diamond\",\"Outdoor Research\",\"La Sportiva\",\"Timberland\",\"Osprey\",\"Vasque\",\"Smartwool\",\"Garmont\",\"Petzl\",\"Lowa\",\"Keen\",\"Scarpa\",\"Boreal\",\"Five Ten\",\"La Sportiva\",\"Suunto\",\"Garmin\",\"Polar\",\"Casio\",\"Timex\",\"G-Shock\",\"Nixon\",\"Suunto\",\"Adidas\",\"Nike\",\"Puma\",\"New Balance\",\"Reebok\",\"Asics\",\"Under Armour\",\"Fila\",\"Skechers\",\"Converse\",\"Vans\",\"Umbro\",\"K-Swiss\",\"Diadora\",\"Lacoste\",\"Mizuno\",\"Wilson\",\"Everlast\",\"Mitre\",\"Uhlsport\",\"Joma\"],\"luxury\":[\"Louis Vuitton\",\"Gucci\",\"Chanel\",\"Hermes\",\"Rolex\",\"Cartier\",\"Prada\",\"Versace\",\"Dior\",\"Burberry\",\"Tiffany & Co.\",\"Dolce & Gabbana\",\"Armani\",\"Fendi\",\"Balenciaga\",\"Valentino\",\"Givenchy\",\"Alexander McQueen\",\"Bottega Veneta\",\"Saint Laurent\",\"Bulgari\",\"Jimmy Choo\",\"Christian Louboutin\",\"Ferragamo\",\"Coach\",\"Celine\",\"Marc Jacobs\",\"Tom Ford\",\"Michael Kors\",\"Ralph Lauren\",\"Miu Miu\",\"Victoria Beckham\",\"Alexander Wang\",\"Stella McCartney\",\"Yves Saint Laurent\",\"Pringle of Scotland\",\"Lanvin\",\"Guerlain\",\"Loewe\",\"Balmain\",\"Vivienne Westwood\",\"Ermenegildo Zegna\",\"Paul Smith\",\"Zegna\",\"Kenzo\",\"Missoni\",\"Hugo Boss\",\"Boucheron\",\"Chopard\",\"Montblanc\",\"Jaeger-LeCoultre\",\"Piaget\",\"Panerai\",\"Breitling\",\"Hublot\",\"IWC Schaffhausen\",\"Tag Heuer\",\"Audemars Piguet\",\"Patek Philippe\",\"Omega\",\"Vacheron Constantin\",\"Richard Mille\",\"Bentley\",\"Aston Martin\",\"Rolls-Royce\",\"Ferrari\",\"Lamborghini\",\"Bugatti\",\"Maserati\",\"Porsche\",\"McLaren\",\"Jaguar\",\"Land Rover\",\"Cartier\",\"Tiffany & Co.\",\"Graff\",\"Harry Winston\",\"Van Cleef & Arpels\",\"Bvlgari\",\"Piaget\",\"Chopard\",\"Breguet\",\"Zenith\",\"Girard-Perregaux\",\"Ulysse Nardin\",\"Roger Dubuis\",\"Audemars Piguet\",\"Jaquet Droz\",\"Blancpain\",\"Franck Muller\",\"Richard Mille\",\"Parmigiani Fleurier\",\"H. Moser & Cie\",\"Greubel Forsey\",\"A. Lange & Söhne\",\"Patek Philippe\",\"Hublot\",\"Rolex\",\"Omega\",\"Tag Heuer\"],\"brand\":[\"Zara\",\"H&M\",\"Forever 21\",\"Uniqlo\",\"ASOS\",\"Topshop\",\"Mango\",\"Gap\",\"Urban Outfitters\",\"Zalando\",\"Primark\",\"Boohoo\",\"Missguided\",\"River Island\",\"PrettyLittleThing\",\"Free People\",\"Pull & Bear\",\"Bershka\",\"Abercrombie & Fitch\",\"American Eagle\",\"Anthropologie\",\"Banana Republic\",\"Express\",\"Free People\",\"Guess\",\"Hollister\",\"J.Crew\",\"Mango\",\"Massimo Dutti\",\"Nasty Gal\",\"Oysho\",\"Stradivarius\",\"Superdry\",\"Tally Weijl\",\"Ted Baker\",\"Vero Moda\",\"Yoox\",\"COS\",\"& Other Stories\",\"Monki\",\"Weekday\",\"All Saints\",\"Whistles\",\"Reiss\",\"Karen Millen\",\"Ted Baker\",\"L.K. Bennett\",\"French Connection\",\"Phase Eight\",\"Boden\",\"Ralph Lauren\",\"Tommy Hilfiger\",\"Calvin Klein\",\"Guess\",\"Diesel\",\"Levi's\",\"Wrangler\",\"Lee\",\"G-Star Raw\",\"Pepe Jeans\",\"Superdry\",\"American Vintage\",\"Scotch & Soda\",\"The Kooples\",\"Sandro\",\"Maje\",\"IKKS\",\"Comptoir des Cotonniers\",\"Bellerose\",\"Ba&sh\",\"Sessun\",\"A.P.C.\",\"Paul & Joe\",\"Claudie Pierlot\",\"Tara Jarmon\",\"Maison Kitsuné\",\"Sezane\",\"Sonia Rykiel\",\"Isabel Marant Etoile\",\"COS\",\"& Other Stories\",\"Massimo Dutti\",\"ARKET\",\"Cosabella\",\"Agent Provocateur\",\"La Perla\",\"Wolford\",\"Hanky Panky\",\"Marlies Dekkers\",\"Chantelle\",\"Simone Pérèle\",\"Heidi Klum Intimates\",\"Natori\",\"Wacoal\",\"Anita\",\"Triumph\",\"Panache\",\"Freya\",\"Curvy Kate\",\"Elomi\",\"Fantasie\"],\"appliance\":[\"Samsung\",\"LG\",\"Whirlpool\",\"General Electric (GE)\",\"Maytag\",\"KitchenAid\",\"Bosch\",\"Electrolux\",\"Kenmore\",\"Frigidaire\",\"Amana\",\"Sharp\",\"Panasonic\",\"Sony\",\"Toshiba\",\"Miele\",\"Siemens\",\"Haier\",\"Hitachi\",\"Dyson\",\"Hoover\",\"Shark\",\"Dacor\",\"Sub-Zero\",\"Wolf\",\"Viking\",\"Thermador\",\"GE Profile\",\"Jenn-Air\",\"Fisher & Paykel\",\"Liebherr\",\"GE Appliances\",\"Westinghouse\",\"Hisense\",\"TCL\",\"Sanyo\",\"Sunbeam\",\"Hamilton Beach\",\"Breville\",\"Cuisinart\",\"Keurig\",\"Black & Decker\",\"Ninja\",\"Oster\",\"Presto\",\"Instant Pot\",\"Farberware\",\"Magic Chef\",\"RCA\",\"Rheem\",\"Carrier\",\"Trane\",\"Lennox\",\"Honeywell\",\"A.O. Smith\",\"Bradford White\",\"American Standard\",\"Rinnai\",\"Eureka\",\"Dirt Devil\",\"Rowenta\",\"Miele\",\"Dyson\",\"Shark\",\"Hoover\",\"iRobot\",\"Bissell\",\"Dyson\",\"Eufy\",\"Ecovacs\",\"Neato Robotics\",\"Samsung\",\"LG\",\"Sony\",\"Panasonic\",\"Toshiba\",\"Sharp\",\"Philips\",\"Vizio\",\"Hisense\",\"TCL\",\"Roku\",\"Apple\",\"Microsoft\",\"HP\",\"Dell\",\"Lenovo\",\"Acer\",\"Asus\",\"MSI\",\"Alienware\",\"Sony\",\"Bose\",\"Harman Kardon\",\"JBL\",\"Yamaha\",\"Sonos\",\"Polk Audio\",\"Sennheiser\",\"Audio-Technica\",\"Beats\",\"AKG\",\"Plantronics\",\"Marshall\",\"Corsair\",\"HyperX\",\"Razer\",\"Logitech\",\"SteelSeries\"],\"beauty\":[\"L'Oreal\",\"Estée Lauder\",\"MAC Cosmetics\",\"Maybelline\",\"Revlon\",\"NARS\",\"Covergirl\",\"Clinique\",\"Urban Decay\",\"Too Faced\",\"Anastasia Beverly Hills\",\"NYX Cosmetics\",\"Charlotte Tilbury\",\"Smashbox\",\"Benefit Cosmetics\",\"Tarte Cosmetics\",\"Bobbi Brown\",\"Laura Mercier\",\"Yves Saint Laurent\",\"Dior\",\"Chanel\",\"Guerlain\",\"Givenchy\",\"Shiseido\",\"Make Up For Ever\",\"Sephora\",\"Huda Beauty\",\"Fenty Beauty\",\"ColourPop\",\"Pat McGrath Labs\",\"Hourglass\",\"Tom Ford\",\"Kylie Cosmetics\",\"Jeffree Star Cosmetics\",\"Milani\",\"Wet n Wild\",\"BH Cosmetics\",\"Morphe\",\"Sleek Makeup\",\"Juvia's Place\",\"Zoeva\",\"ELF Cosmetics\",\"Physicians Formula\",\"Essence\",\"BareMinerals\",\"The Body Shop\",\"Oriflame\",\"Avon\",\"Mary Kay\",\"Clarins\",\"Lancôme\",\"Olay\",\"Neutrogena\",\"Garnier\",\"Cetaphil\",\"La Roche-Posay\",\"Avene\",\"Kiehl's\",\"Vichy\",\"Bioderma\",\"CeraVe\",\"Mario Badescu\",\"The Ordinary\",\"Drunk Elephant\",\"Sunday Riley\",\"Glossier\",\"Fresh\",\"SK-II\",\"Glamglow\",\"Peter Thomas Roth\",\"Origins\",\"Ole Henriksen\",\"Murad\",\"Dr. Brandt\",\"Tatcha\",\"Belif\",\"Caudalie\",\"La Mer\",\"Elizabeth Arden\",\"Dermalogica\",\"Biotherm\",\"Nivea\",\"Eucerin\",\"L'Occitane\",\"Crabtree & Evelyn\",\"Bath & Body Works\",\"Aesop\",\"Korres\",\"Molton Brown\",\"Aveda\",\"Bumble and Bumble\",\"Moroccanoil\",\"Oribe\",\"Redken\",\"Kérastase\",\"L'Oréal Professionnel\",\"Schwarzkopf\",\"Wella\",\"Joico\",\"TRESemmé\",\"Pantene\",\"Head & Shoulders\",\"GHD\",\"Babyliss\",\"Remington\",\"Dyson\",\"Foreo\",\"Clarisonic\"],\"sales\":[\"sale\",\"sales\",\"outlet\",\"deal\",\"deals\",\"closeout\",\"closeouts\",\"clearance\",\"promotion\",\"bargain\"]},\"cartDataPatterns\":{\"subTotal\":[\"Subtotal\",\"Total (excluding delivery)\",\"Items total\",\"Item Subtotal\",\"Order Subtotal\",\"Zwischensumme\",\"Geschätzte Gesamtmenge\",\"Total de productos\",\"Subtotal de la compra\",\"Sous-total\",\"Total des articles\",\"Total (hors livraison)\",\"Subtotaal\",\"Subtotal serviços\",\"Subtotaal, Totaalprijs artikelen\",\"SUBTOTALE\",\"Totale carrello\",\"Suma\",\"Wartość produktów\",\"Wartość towarów\"],\"tax\":[\"Tax\",\"Sales Tax\",\"VAT\",\"Estimated tax\",\"Steuern\",\"Zollgebühren\",\"Steuern & Gebühren\",\"Enthaltene MwSt.\",\"Impuesto\",\"Impuestos\",\"aranceles y tasas\",\"Taxe\",\"Droits de douane\",\"taxes et redevance\",\"BTW\",\"moms\",\"Varav moms\",\"IVA\"],\"shipping\":[\"Delivery costs\",\"Shipping\",\"Delivery\",\"Shipping Fees\",\"Shipping & Handling\",\"Versandkosten\",\"Lieferung\",\"Versand\",\"Lieferkosten\",\"envío\",\"Gastos de envío\",\"Entrega\",\"Expédition\",\"Livraison\",\"Frais de livraison\",\"Leveringskosten\",\"Frete\",\"Leveringskosten\",\"Verzendkosten\",\"Leveranskostnader\",\"Frakt\",\"Consegna\",\"Spedizione\",\"Spese di spedizione\",\"Costi di spedizione\",\"Koszt dostawy\",\"dostawy\",\"Dostawa\"],\"total\":[\"Total\",\"In total\",\"Order Total\",\"Total including delivery\",\"Order Total\",\"Gesamtsumme\",\"Bestellsumme\",\"Zwischensumme\",\"Gesamt\",\"Summe Ihrer Bestellung\",\"Summe\",\"Gesamtpreis der Bestellung\",\"Gesamt\",\"Total de tu pedido\",\"Total del pedido\",\"Importe total\",\"Total de votre commande\",\"Total commande\",\"Montant total\",\"TOTALE BESTELLING\",\"Total à prazo\",\"tottal\",\"Te betalen\",\"Totaalprijs\",\"Totaal bedrag\",\"Total summa\",\"TOTALT\",\"Att betala\",\"Totalsumma\",\"TOTALE\",\"Prezzo totale\",\"TOTALE ORDINE\",\"Cena razem\",\"Do zapłaty\",\"Wartość zamówienia\"],\"promotions\":[\"promotional code\",\"promo code\",\"gift card or discount code\",\"coupon code\",\"gift card\",\"discount code\",\"offer code\",\"Coupon / Discount\",\"APPLY PROMO CODE\",\"Aktionscode\",\"geschenkkarte oder rabattcode\",\"rabattcode\",\"geschenkkarte\",\"rabatt\",\"código promocional\",\"code promotionnel\",\"Code promo\",\"Mijn kortingscode\",\"cupom de desconto\",\"vale-compras\",\"cupom\",\"promocode\",\"cadeaubon\",\"Actiecode\",\"Korting\",\"Kortingscode\",\"Rabattkupong\",\"Rabatt\",\"kupongkod\",\"vardekode\",\"Rabatter\",\"codice sconto\",\"codice promozionale\",\"Cod. promo\",\"sconto\",\"Kupon\",\"Rabat\",\"Kod rabatowy\"]},\"currencyMapper\":{\"$\":\"USD\",\"€\":\"EUR\",\"£\":\"GBP\",\"¥\":\"CNY\",\"₹\":\"INR\",\"₽\":\"RUB\",\"₩\":\"KRW\",\"₪\":\"ILS\",\"₫\":\"VND\",\"₴\":\"UAH\",\"₣\":\"XPF\",\"₤\":\"TRL\",\"₦\":\"NGN\",\"₨\":\"LKR\",\"₭\":\"LAK\",\"₮\":\"MNT\",\"₱\":\"PHP\",\"₲\":\"PYG\",\"₵\":\"GHS\",\"៛\":\"KHR\",\"฿\":\"THB\",\"₡\":\"CRC\",\"₢\":\"BRL\",\"₥\":\"MXN\",\"₧\":\"ESP\",\"₸\":\"KZT\",\"₺\":\"TRY\",\"₼\":\"AZN\",\"₾\":\"GEL\",\"R$\":\"BRL\",\"RM\":\"MYR\",\"Rp\":\"IDR\",\"Dhs\":\"AED\",\"BD\":\"BHD\",\"JD\":\"JOD\",\"S$\":\"SGD\",\"Q\":\"GTQ\",\"P\":\"BWP\",\"BZ$\":\"BZD\",\"TT$\":\"TTD\",\"Z$\":\"ZWL\",\"NZ$\":\"NZD\",\"AU$\":\"AUD\",\"CI$\":\"KYD\",\"GH¢\":\"GHS\",\"WS$\":\"WST\",\"FJ$\":\"FJD\",\"S/\":\"PEN\",\"EC$\":\"XCD\",\"Bs.\":\"VEF\",\"Bs.F.\":\"VEF\",\"UM\":\"MRO\",\"FCFA\":\"XOF\",\"CFA\":\"XAF\",\"MT\":\"MZN\",\"TSh\":\"TZS\",\"R\":\"ZAR\",\"N$\":\"NAD\",\"KSh\":\"KES\",\"USh\":\"UGX\",\"FBu\":\"BIF\",\"D\":\"GMD\",\"Br\":\"ETB\",\"C$\":\"NIO\",\"B/.\":\"PAB\",\"G\":\"PYG\",\"m\":\"TMT\",\"лв\":\"BGN\",\"KM\":\"BAM\",\"kn\":\"HRK\",\"Kč\":\"CZK\",\"L\":\"HNL\",\"Ft\":\"HUF\",\"kr\":\"ISK\",\"Lt\":\"LTL\",\"Ls\":\"LVL\",\"MK\":\"MWK\",\"MDL\":\"MDL\",\"lei\":\"RON\",\"zł\":\"PLN\",\"RSD\":\"RSD\",\"T\":\"TJS\",\"ZK\":\"ZMW\",\"J$\":\"JMD\",\"TTD\":\"TTD\",\"RD$\":\"DOP\",\"BMD\":\"BMD\",\"Bds$\":\"BBD\"}}"
+        },
+        {
+          "name": "u_sclid_r",
+          "value": "4JrtBfdjBK1tboY8p4BtnPcuqZ0Ukl46Ynh60JO7RHLbJrhMPjuXN99nCu69QAAK-FUC2ZpfFyI"
+        },
+        {
+          "name": "SIGNALS_ON",
+          "value": "1"
+        },
+        {
+          "name": "kampyleUserPercentile",
+          "value": "57.1007868575095"
+        },
+        {
+          "name": "kampyleSessionPageCounter",
+          "value": "1"
+        },
+        {
+          "name": "psc",
+          "value": "8"
+        }
+      ]
+    },
+    {
+      "origin": "https://tr.snapchat.com",
+      "localStorage": [
+        {
+          "name": "u_sclid_r",
+          "value": "MfUAmmG5Q0sRF_eMlB_8qnAJzCKO6J7I9W8ehqrxgEP19tZ5R1hpizd02h7HINvA"
+        },
+        {
+          "name": "u_sclid",
+          "value": "MfUAmmG5Q0sRF_eMlB_8qnAJzCKO6J7I9W8ehqrxgEP19tZ5R1hpizd02h7HINvA"
+        }
+      ]
+    },
+    {
+      "origin": "https://login-uat.dxl.com",
+      "localStorage": [
+        {
+          "name": "QM_U",
+          "value": "{\"u\":\"654a76ac3fd60987d1d245202c739b8b\",\"exp\":1818527258549}"
+        },
+        {
+          "name": "QM_S",
+          "value": "{\"configReplayEnabled\":true,\"s\":\"bc4a40d564d44c35a426fb6c8a0d9d6d\",\"exp\":1786993058549,\"lastUrl\":\"https://login-uat.dxl.com/u/login/identifier?state=*****\",\"event:647ef0473568434193e523878d86a4c3\":{\"i\":538,\"v\":\"false\",\"t\":1786991258167},\"event:2b72d95248fd43679f766eaa759a05b7\":{\"i\":569,\"v\":\"GA1.1.1168888221.1786990637\",\"t\":1786991258167},\"event:a15f0ae3cbc94a9c883441b127be2764\":{\"i\":597,\"v\":\"False\",\"t\":1786991258167},\"slr\":false,\"event:a5da0a037b064c8f99459bd220afbb5f\":{\"i\":-26,\"v\":\"\",\"t\":1786991258554},\"eSync\":true,\"event:9de27a2ea28b46eeb82e3f3d7507d5ef\":{\"i\":602,\"v\":\"2\",\"t\":1786991258554,\"h\":\"lTtFCHe1yXY=\"}}"
+        }
+      ]
+    }
+  ]
+}
