@@ -1,4 +1,4 @@
-import { test as base, expect } from '@playwright/test';
+import { test as base, BrowserContext, expect, type Page } from '@playwright/test';
 import accountData from '../data/accounts.json';
 import testData from '../data/testData.json';
 import { changeCountryToUS } from '../utils/changeCountry';
@@ -14,6 +14,7 @@ import { ConfirmationPage } from '../pages/orderConfirmation';
 export type CheckoutOptions = {
     addressType: 'Standard' | 'POBox' | 'US Outlying' | 'STS'; isLoggedIn?: boolean; paymentMethod?: 'Standard' | 'Afterpay';
 }
+
 
 type MyFixtures = {
     checkoutReady: void;
@@ -32,11 +33,57 @@ type MyFixtures = {
 
 const testAccounts = accountData.accounts;
 
+
+const THIRD_PARTY_NOISE = new RegExp(
+  [
+    'tealiumiq\\.com',
+    'tiqcdn\\.com',
+    'yottaa\\.com',
+    'monetate\\.(net|com)',
+    'onetrust\\.com',
+    'cookielaw\\.org',
+    'zendesk\\.com',
+    'salesfloor\\.net',
+    'googletagmanager\\.com',
+    'snapchat\\.com',
+    'reddit\\.com',
+    'bluecore\\.com',
+    'gepi\\.global-e\\.com',
+     'intgepi\\.bglobale\\.com',
+  ].join('|'),
+);
+
+async function blockThirdPartyNoise(
+    context: BrowserContext,
+): Promise<void> {
+    await context.route('**/*', async (route) => {
+        const url = route.request().url();
+
+        if (url.includes('global-e.com')) {
+            console.log('🔥 BLOCKING GLOBAL-E:', url);
+            await route.abort();
+            return;
+        }
+
+        if (THIRD_PARTY_NOISE.test(url)) {
+            console.log('BLOCKING THIRD PARTY:', url);
+            await route.abort();
+            return;
+        }
+
+        await route.continue();
+    });
+}
+
 export const test = base.extend<MyFixtures>({
     checkoutOptions: [{ addressType: 'Standard', isLoggedIn: false, paymentMethod: 'Standard' }, { option: true }],
     isPaypalLoginRequired: [false, { option: true }],
+    
+     context: async ({ context }, use) => {
+        await blockThirdPartyNoise(context);
 
-
+        await use(context);
+    },
     checkoutReady: async ({ page, context, checkoutOptions  }, use, testInfo) => {
         test.setTimeout(300_000);
         await context.clearCookies().catch(() => {});
@@ -76,10 +123,7 @@ export const test = base.extend<MyFixtures>({
         // 2. Clear state strictly after domain is established to avoid SecurityError
         await page.evaluate(() => { localStorage.clear(); sessionStorage.clear(); });
 
-        await home.acceptCookies();
-
-        // 3. Force US state via UI
-        await changeCountryToUS(page);
+   
 
         // 4. Force US state via Storage fallback
         await page.evaluate(() => {
@@ -292,7 +336,7 @@ export const test = base.extend<MyFixtures>({
                 throw err;
             }
             await page.evaluate(() => { localStorage.clear();  sessionStorage.clear(); });
-            await home.acceptCookies();
+     
 
             // Force US parameters
             await changeCountryToUS(page);
@@ -338,7 +382,6 @@ export const test = base.extend<MyFixtures>({
                 throw err;
             }
             await page.evaluate(() => { localStorage.clear();  sessionStorage.clear(); });
-            await home.acceptCookies();
 
             // Force US parameters
             await changeCountryToUS(page);
