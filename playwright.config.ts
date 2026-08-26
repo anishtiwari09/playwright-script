@@ -4,8 +4,8 @@ export default defineConfig({
   testDir: './tests',
   timeout: 300_000,
   retries: process.env.CI ? 2 : 1,
-  fullyParallel: true,
-  workers: 2,
+  fullyParallel: false,
+  workers: 1,
   reporter: 'html',
 
   use: {
