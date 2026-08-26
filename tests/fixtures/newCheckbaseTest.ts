@@ -314,8 +314,7 @@ export const test = base.extend<MyFixtures>({
 
 
     expressPaypalReady: async ({ page, context, isPaypalLoginRequired }, use, testInfo) => {
-
-        test.setTimeout(300_000);
+//   test.setTimeout(300_000);
         await context.clearCookies().catch(() => {});
 
         try {
@@ -339,7 +338,7 @@ export const test = base.extend<MyFixtures>({
      
 
             // Force US parameters
-            await changeCountryToUS(page);
+          
             await page.evaluate(() => { localStorage.setItem('country', 'US'); localStorage.setItem('currency', 'USD'); });
             const accountIndex = testInfo.workerIndex % testAccounts.length;
             const currentAccount = testAccounts[accountIndex];
@@ -384,7 +383,7 @@ export const test = base.extend<MyFixtures>({
             await page.evaluate(() => { localStorage.clear();  sessionStorage.clear(); });
 
             // Force US parameters
-            await changeCountryToUS(page);
+
             await page.evaluate(() => { localStorage.setItem('country', 'US'); localStorage.setItem('currency', 'USD'); });
 
             // Only select store for STS (Store To Ship) scenarios
