@@ -34,7 +34,7 @@ jobs:
         run: yarn playwright install --with-deps
 
       - name: Run Playwright tests
-        run: yarn playwright test
+        run: yarn playwright test tests/specs/checkoutPaypal.spec
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

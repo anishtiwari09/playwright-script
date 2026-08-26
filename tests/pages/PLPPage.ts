@@ -113,6 +113,7 @@ export class PLPPage {
   }
 
   // === RE-ENGINEERED STRIPPED METHOD ===
+  
   async selectProductWithSizeFilter(): Promise<string> {
     console.log('Bypassing PLP size filters entirely. Picking a product and matching target size on PDP...');
 
@@ -123,11 +124,11 @@ export class PLPPage {
     console.log(`Pre-selecting random target size vector: "${selectedSize}"`);
 
     // 2. Isolate the core product item list from the result grid layout
-    const productGrid = this.page.locator('[id*="grid"], [class*="grid"], [class*="results"], [class*="ProductList"]').first();
+    const productGrid =  this.page.locator('.plp-product-card');
     const productLocator = productGrid.locator('a[href*="/p/"]').filter({ hasText: /\w+/ });
 
     // Ensure components have completed browser rendering loops across Chromium/Firefox
-    await this.page.waitForLoadState('networkidle').catch(() => {});
+    // await this.page.waitForLoadState('networkidle').catch(() => {});
     await expect(productLocator.first()).toBeVisible({ timeout: 15000 });
 
     const productCount = await productLocator.count();

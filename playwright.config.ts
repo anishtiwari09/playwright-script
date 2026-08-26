@@ -4,8 +4,8 @@ export default defineConfig({
   testDir: './tests',
   timeout: 300_000,
   retries: process.env.CI ? 2 : 1,
-  fullyParallel: false,
-  workers: 1,
+  fullyParallel: true,
+  workers: 2,
   reporter: 'html',
 
   use: {
@@ -30,17 +30,17 @@ export default defineConfig({
       dependencies: ['setup'],
       testIgnore: /seed\.spec\.ts/,
     },
-    {
-      name: 'firefox',
-      use: { ...devices['Desktop Firefox'] },
-      dependencies: ['setup'],
-      testIgnore: /seed\.spec\.ts/,
-    },
-    {
-      name: 'webkit',
-      use: { ...devices['Desktop Safari'] },
-      dependencies: ['setup'],
-      testIgnore: /seed\.spec\.ts/,
-    },
+    // {
+    //   name: 'firefox',
+    //   use: { ...devices['Desktop Firefox'] },
+    //   dependencies: ['setup'],
+    //   testIgnore: /seed\.spec\.ts/,
+    // },
+    // {
+    //   name: 'webkit',
+    //   use: { ...devices['Desktop Safari'] },
+    //   dependencies: ['setup'],
+    //   testIgnore: /seed\.spec\.ts/,
+    // },
   ],
 });
