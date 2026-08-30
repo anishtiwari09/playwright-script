@@ -126,6 +126,8 @@ async fillCreditCardDetails(workerIndex: number = 0) {
         const paypalFrame = this.page.frameLocator('iframe[name*="paypal_buttons"]').first();
         const payPalButton = paypalFrame.getByRole('link', { name: 'Pay with PayPal' });
         await payPalButton.waitFor({ state: 'visible', timeout: 10000 });
+        const result =await this.page.context().waitForEvent('page')
+        console.log("this is the value",result)
         const [payPalPopup] = await Promise.all([this.page.context().waitForEvent('page'), payPalButton.click()]);
 
         await payPalPopup.waitForLoadState('networkidle');

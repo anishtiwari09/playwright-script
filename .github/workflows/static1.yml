@@ -3,14 +3,12 @@ name: Playwright Tests
 on:
   push:
     branches:
-      - main2
+      - master
 
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 jobs:
   test:
@@ -36,13 +34,10 @@ jobs:
       - name: Run Playwright tests
         run: yarn playwright test tests/specs/checkoutPaypal.spec
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-
       - name: Upload Playwright report
-        uses: actions/upload-pages-artifact@v3
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
         with:
-          path: playwright-report
-
-      - name: Deploy Playwright report
-        uses: actions/deploy-pages@v4
+          name: playwright-report
+          path: playwright-report/
+          retention-days: 30
