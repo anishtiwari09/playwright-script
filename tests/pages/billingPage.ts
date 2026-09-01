@@ -143,7 +143,7 @@ const emailField = payPalPopup.locator('#email');
 await emailField.waitFor({ state: 'visible', timeout: 30000 });
 await emailField.fill(email);
 
-const nextBtn = payPalPopup.locator('#btnNext');
+const nextBtn = payPalPopup.getByRole('button', { name: 'Next' })
 await nextBtn.waitFor({ state: 'visible', timeout: 15000 });
 await nextBtn.scrollIntoViewIfNeeded();
 await nextBtn.click();
