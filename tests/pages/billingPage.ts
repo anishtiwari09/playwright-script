@@ -135,7 +135,7 @@ await this.page
 
 const payPalPopup = await payPalPopupPromise;
 
-await payPalPopup.waitForLoadState('networkidle');
+await payPalPopup.waitForLoadState('domcontentloaded');
 
 console.log('Starting PayPal Login...');
 
