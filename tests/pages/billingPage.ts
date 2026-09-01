@@ -134,9 +134,9 @@ await this.page
   .click();
 
 const payPalPopup = await payPalPopupPromise;
-
-await payPalPopup.waitForLoadState('domcontentloaded');
 await payPalPopup.waitForLoadState('networkidle');
+await payPalPopup.waitForLoadState('domcontentloaded');
+
 console.log('Starting PayPal Login...');
 
 const emailField = payPalPopup.locator('#email');
@@ -152,7 +152,7 @@ const passField = payPalPopup.locator('#password');
 await passField.waitFor({ state: 'visible', timeout: 30000 });
 await passField.fill(pass);
 
-const loginBtn = payPalPopup.locator('#btnLogin');
+const loginBtn = payPalPopup.getByRole('button',{name:"Log in"})
 await loginBtn.waitFor({ state: 'visible', timeout: 15000 });
 await loginBtn.scrollIntoViewIfNeeded();
 await loginBtn.click();
