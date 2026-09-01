@@ -126,7 +126,7 @@ async fillCreditCardDetails(workerIndex: number = 0) {
 
 
 const payPalPopupPromise = this.page.context().waitForEvent('page');
-
+  await this.page.waitForTimeout(10000);
 await this.page
   .locator('iframe[name*="zoid__paypal_buttons"]')
   .contentFrame()
