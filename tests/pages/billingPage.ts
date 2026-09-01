@@ -147,13 +147,13 @@ const nextBtn = payPalPopup.getByRole('button', { name: 'Next' })
 await nextBtn.waitFor({ state: 'visible', timeout: 15000 });
 await nextBtn.scrollIntoViewIfNeeded();
 await nextBtn.click();
-
+const loginBtn = payPalPopup.getByRole('button',{name:"Log in"})
+await loginBtn.waitFor({ state: 'visible', timeout: 15000 });
 const passField = payPalPopup.locator('#password');
 await passField.waitFor({ state: 'visible', timeout: 30000 });
 await passField.fill(pass);
 
-const loginBtn = payPalPopup.getByRole('button',{name:"Log in"})
-await loginBtn.waitFor({ state: 'visible', timeout: 15000 });
+
 await loginBtn.scrollIntoViewIfNeeded();
 await loginBtn.click();
         const shipAddress = payPalPopup.locator('[data-testid="ship-to-address"], #shippingAddress, .shipping-address');
