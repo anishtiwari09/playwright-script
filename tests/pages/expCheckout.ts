@@ -27,8 +27,14 @@ export class ExpCheckoutPage {
     }
 
     async selectPayPal(email: string, pass: string) {
-        const frame = this.page.frameLocator('iframe[name*="__zoid__paypal_buttons__"]');
-        const paypalBtn = frame.locator('[data-funding-source="paypal"]');
+      const frame = this.page.frameLocator(
+  'iframe[name*="__zoid__paypal_buttons__"]'
+)
+
+const paypalBtn = frame.locator(
+  'div[role="link"][data-funding-source="paypal"]'
+)
+
         await paypalBtn.waitFor({ state: 'visible', timeout: 30000 });
         await expect(paypalBtn).toBeVisible();
         const [payPalPopup] = await Promise.all([this.page.context().waitForEvent('page'), paypalBtn.click()]);

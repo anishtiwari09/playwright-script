@@ -123,30 +123,39 @@ async fillCreditCardDetails(workerIndex: number = 0) {
 
     async selectPayPalAndOpenPopup(email: string, pass: string) {
         await this.selectPayPal();
-        const paypalFrame = this.page.frameLocator('iframe[name*="paypal_buttons"]').first();
-        const payPalButton = paypalFrame.getByRole('link', { name: 'Pay with PayPal' });
-        await payPalButton.waitFor({ state: 'visible', timeout: 10000 });
-        const result =await this.page.context().waitForEvent('page')
-        console.log("this is the value",result)
-        const [payPalPopup] = await Promise.all([this.page.context().waitForEvent('page'), payPalButton.click()]);
 
-        await payPalPopup.waitForLoadState('networkidle');
-        console.log('Starting PayPal Login...');
-        const emailField = payPalPopup.locator('#email');
-        await emailField.waitFor({ state: 'visible', timeout: 30000 });
-        await emailField.fill(email);
-        const nextBtn = payPalPopup.locator('#btnNext');
-        await nextBtn.waitFor({ state: 'visible', timeout: 15000 });
-        await nextBtn.scrollIntoViewIfNeeded();
-        await nextBtn.click();
-        const passField = payPalPopup.locator('#password');
-        await passField.waitFor({ state: 'visible', timeout: 30000 });
-        await passField.fill(pass);
-        const loginBtn = payPalPopup.locator('#btnLogin');
-        await loginBtn.waitFor({ state: 'visible', timeout: 15000 });
-        await loginBtn.scrollIntoViewIfNeeded();
-        await loginBtn.click();
 
+const payPalPopupPromise = this.page.context().waitForEvent('page');
+
+await this.page
+  .locator('iframe[name*="zoid__paypal_buttons"]')
+  .contentFrame()
+  .getByRole('link', { name: 'Pay with PayPal' })
+  .click();
+
+const payPalPopup = await payPalPopupPromise;
+
+await payPalPopup.waitForLoadState('networkidle');
+
+console.log('Starting PayPal Login...');
+
+const emailField = payPalPopup.locator('#email');
+await emailField.waitFor({ state: 'visible', timeout: 30000 });
+await emailField.fill(email);
+
+const nextBtn = payPalPopup.locator('#btnNext');
+await nextBtn.waitFor({ state: 'visible', timeout: 15000 });
+await nextBtn.scrollIntoViewIfNeeded();
+await nextBtn.click();
+
+const passField = payPalPopup.locator('#password');
+await passField.waitFor({ state: 'visible', timeout: 30000 });
+await passField.fill(pass);
+
+const loginBtn = payPalPopup.locator('#btnLogin');
+await loginBtn.waitFor({ state: 'visible', timeout: 15000 });
+await loginBtn.scrollIntoViewIfNeeded();
+await loginBtn.click();
         const shipAddress = payPalPopup.locator('[data-testid="ship-to-address"], #shippingAddress, .shipping-address');
         await shipAddress.first().waitFor({ state: 'visible', timeout: 30000 });
 
