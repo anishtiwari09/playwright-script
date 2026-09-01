@@ -136,7 +136,7 @@ await this.page
 const payPalPopup = await payPalPopupPromise;
 
 await payPalPopup.waitForLoadState('domcontentloaded');
-
+await payPalPopup.waitForLoadState('networkidle');
 console.log('Starting PayPal Login...');
 
 const emailField = payPalPopup.locator('#email');
