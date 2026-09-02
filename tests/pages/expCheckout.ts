@@ -37,6 +37,7 @@ const paypalBtn = frame.locator(
 
         await paypalBtn.waitFor({ state: 'visible', timeout: 30000 });
         await expect(paypalBtn).toBeVisible();
+         await this.page.waitForTimeout(10000);
         const [payPalPopup] = await Promise.all([this.page.context().waitForEvent('page'), paypalBtn.click()]);
         await payPalPopup.waitForLoadState('networkidle');
         console.log('Starting PayPal Login...');
