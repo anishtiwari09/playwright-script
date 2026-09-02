@@ -9,11 +9,17 @@ on:
 
 permissions:
   contents: read
+  pages: write
+  id-token: write
 
 jobs:
   test:
     runs-on: ubuntu-latest
     timeout-minutes: 60
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout repository
@@ -42,6 +48,9 @@ jobs:
           echo "RAM: $(free -h | awk '/Mem:/ {print $2}')"
           echo "OS: $(lsb_release -ds 2>/dev/null || cat /etc/os-release | grep PRETTY_NAME)"
           echo "Runner: $RUNNER_NAME"
+          echo "Node: $(node --version)"
+          echo "Yarn: $(yarn --version)"
+          echo "Playwright: $(yarn playwright --version)"
           echo "========================================"
 
       - name: Get timestamp
@@ -50,7 +59,7 @@ jobs:
       - name: Run Playwright tests
         run: yarn playwright test tests/specs/checkoutPaypal.spec
 
-      - name: Upload Playwright report
+      - name: Upload Playwright report artifact
         if: ${{ !cancelled() }}
         uses: actions/upload-artifact@v4
         with:
@@ -59,3 +68,27 @@ jobs:
             playwright-report/
             test-results/
           retention-days: 30
+
+      - name: Setup GitHub Pages
+        if: ${{ !cancelled() }}
+        uses: actions/configure-pages@v5
+
+      - name: Upload Playwright report to GitHub Pages
+        if: ${{ !cancelled() }}
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: playwright-report/
+
+      - name: Deploy Playwright report to GitHub Pages
+        if: ${{ !cancelled() }}
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Print Playwright report URL
+        if: ${{ !cancelled() }}
+        run: |
+          echo "========================================"
+          echo "Playwright Report"
+          echo "========================================"
+          echo "Report URL: ${{ steps.deployment.outputs.page_url }}"
+          echo "========================================"
