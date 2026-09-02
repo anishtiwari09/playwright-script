@@ -31,6 +31,22 @@ jobs:
       - name: Install Playwright browsers
         run: yarn playwright install --with-deps
 
+      - name: Print system specs
+        run: |
+          echo "========================================"
+          echo "System Information"
+          echo "========================================"
+          echo "Time: $(date '+%Y-%m-%d %H:%M:%S %Z %z')"
+          echo "CPU Cores: $(nproc)"
+          echo "CPU: $(lscpu | grep 'Model name' | sed 's/^[^:]*: *//')"
+          echo "RAM: $(free -h | awk '/Mem:/ {print $2}')"
+          echo "OS: $(lsb_release -ds 2>/dev/null || cat /etc/os-release | grep PRETTY_NAME)"
+          echo "Runner: $RUNNER_NAME"
+          echo "========================================"
+
+      - name: Get timestamp
+        run: echo "TIMESTAMP=$(date +'%Y%m%d-%H%M%S')" >> $GITHUB_ENV
+
       - name: Run Playwright tests
         run: yarn playwright test tests/specs/checkoutPaypal.spec
 
@@ -38,6 +54,8 @@ jobs:
         if: ${{ !cancelled() }}
         uses: actions/upload-artifact@v4
         with:
-          name: playwright-report
-          path: playwright-report/
+          name: playwright-report-${{ github.run_id }}-${{ env.TIMESTAMP }}
+          path: |
+            playwright-report/
+            test-results/
           retention-days: 30
