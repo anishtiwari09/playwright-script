@@ -68,12 +68,12 @@ async fillCreditCardDetails(workerIndex: number = 0) {
 
     const nameInput = this.page.locator('#creditCardUserName');
     await nameInput.scrollIntoViewIfNeeded();
-    await nameInput.fill(`Deepak Worker${workerIndex}`);
+    await nameInput.fill(`Deepak Worker`);
 
-    await expect(cardFrame.locator('#number')).toHaveValue('4111111111111111');
+    await expect(cardFrame.locator('#number')).toHaveValue('4111 1111 1111 1111');
     await expect(expiryInput).toHaveValue('12/32');
     await expect(cvvInput).toHaveValue('123');
-    await expect(nameInput).toHaveValue(`Deepak Worker${workerIndex}`);
+    await expect(nameInput).toHaveValue(`Deepak Worker`);
 }
 
 

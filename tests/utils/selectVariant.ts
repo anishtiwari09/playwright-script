@@ -67,12 +67,13 @@ export async function selectVariant(page: Page, preferredSize?: string) {
     ], { timeout: 60000 });
 
     await expect(addToBag).toBeEnabled({ timeout: 60000 });
+ if (await recoverOutOfStock(page)) {
+        return false;
+    }
     await addToBag.click();
 
     // Handle out-of-stock bag popup via shared util
-    if (await recoverOutOfStock(page)) {
-        return false;
-    }
+
 
     console.log('Product added to bag successfully.');
     return true;

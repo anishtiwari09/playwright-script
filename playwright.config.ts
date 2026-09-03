@@ -26,9 +26,10 @@ export default defineConfig({
     },
     {
       name: 'chromium',
-      use: { ...devices['Desktop Chrome'] },
+      use: { ...devices['Desktop Chrome'],  channel: 'chromium' },
       dependencies: ['setup'],
       testIgnore: /seed\.spec\.ts/,
+    
     },
     // {
     //   name: 'firefox',
